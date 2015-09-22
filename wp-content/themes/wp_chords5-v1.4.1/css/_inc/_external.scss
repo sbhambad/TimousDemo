@@ -1,0 +1,83 @@
+/* -----------------------------------------
+	10. External Plugins
+----------------------------------------- */
+
+/* Isotope Animations */
+.isotope-item { z-index: 2; }
+.isotope-hidden.isotope-item { pointer-events: none; z-index: 1; }
+.isotope, .isotope .isotope-item { -webkit-transition-duration: 0.8s; -moz-transition-duration: 0.8s; -ms-transition-duration: 0.8s; -o-transition-duration: 0.8s; transition-duration: 0.8s; }
+.isotope { -webkit-transition-property: height, width; -moz-transition-property: height, width; -ms-transition-property: height, width; -o-transition-property: height, width; transition-property: height, width; }
+.isotope .isotope-item { -webkit-transition-property: -webkit-transform, opacity; -moz-transition-property: -moz-transform, opacity; -ms-transition-property: -ms-transform, opacity; -o-transition-property: -o-transform, opacity; transition-property: transform, opacity; }
+
+/* Jetpack Sharing */
+.sharedaddy { margin-top:30px; }
+
+/* WP Instagram */
+.null-instagram-feed p {
+	padding-top:10px;
+}
+
+.widget .instagram-pics {
+	@include clearfix;
+}
+
+.widget .instagram-pics li {
+	border-bottom:0;
+	padding:0;
+	float:left;
+	width:33.33333333333%;
+
+	a {
+		display:block;
+	}
+}
+
+/* Chosen */
+.chosen-results {
+	color: #333;
+}
+
+/* PrettyPhoto Overrides */
+.pp_content {
+	color: #000;
+}
+
+/* Jetpack contact form */
+.entry-content {
+	.textwidget .contact-form {
+		input[type="text"],
+		input[type="email"],
+		input[type="url"],
+		textarea {
+			width: 100%;
+			max-width: 100%;
+		}
+
+		input[type="submit"] {
+			width: auto;
+		}
+	}
+
+	.form-error {
+		background-color: #B84B45;
+		color: #FFF;
+		padding: 15px 20px;
+		margin: 0 0 30px;
+
+		h3 {
+			text-transform: uppercase;
+			font-size: 18px;
+		}
+	}
+
+	.form-errors {
+		margin: 0;
+		padding: 0;
+
+		.form-error-message {
+			list-style: none;
+			color: #FFF;
+		}
+	}
+}
+

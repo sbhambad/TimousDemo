@@ -1,0 +1,172 @@
+/* -----------------------------------------
+	02. Main Navigation
+----------------------------------------- */
+
+#nav {
+	position: absolute;
+	right: 15px;
+	top: 35px;
+}
+
+#nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#navigation {
+  $nav-color : #FFF;
+  $nav-color-hover : #FFF;
+  $nav-padding: 10px;
+	@include clearfix();
+
+  // Navigation functional styles
+  li { position: relative; z-index: 100;}
+  > li { float: left; }
+  ul { position: absolute; z-index: 300; top: -999em; }
+  li:hover > ul,
+  .sfHover > ul { top: auto; }
+  li li:hover > ul,
+  li .sfHover > ul { top: 0; left: 100%; }
+  li li li:hover > ul,
+  li li .sfHover > ul{ top: 0; left: 100%; }
+  a, #navigation a:visited { display: block; white-space: nowrap; }
+	> li:last-child:hover,
+	> li.sfHover:last-child {
+		> ul {
+			left: auto;
+			right: 0;
+
+			ul {
+				left: auto;
+				right: 100%;
+			}
+		}
+	}
+
+  a {
+    padding: 4px 0;
+    color: $nav-color;
+		text-transform: uppercase;
+		font-size: 16px;
+    /* Global Menu Link Styles */
+  }
+
+  > li:first-child > a { }
+  > li:last-child > a { margin-right: 0; }
+
+  a:hover,
+  .sfHover > a {
+    text-decoration: none;
+    /* First Level & Global Menu Link Hover Styles */
+  }
+
+  > li > a {
+		margin: 0 13px;
+		border-bottom: 2px solid transparent;
+    /* First Level Menu Link Styles */
+  }
+
+  > li ul a {
+		background: #000;
+		border-bottom: 1px solid #292322;
+		margin: 0;
+		padding: 9px 14px;
+		font-size: 14px;
+    /* All Other Menu Level Link Styles */
+  }
+
+	> li ul li:last-child a {
+		border-bottom: none;
+	}
+
+  > li ul a:hover,
+  > li ul .sfHover > a {
+    color: $nav-color-hover;
+		background: $primary-color;
+    /* All Other Level Menu Link Hover Styles */
+  }
+
+  > li > a:hover,
+  > li.sfHover > a,
+  > li.sfHover > a:active,
+  > li.current_page_item > a,
+  > li.current-menu-item > a,
+  > li.current-menu-ancestor > a,
+  > li.current-menu-parent > a,
+  > li.current > a {
+		border-bottom: 2px solid $primary-color;
+   /* WordPress First Level Current/Ancestor Hover Page Styles */
+  }
+
+  ul {
+		border: 3px solid #292322;
+		min-width: 200px;
+    /* All Lower Level Menu Container Styles */
+  }
+
+	> li > ul {
+		margin-left: 13px;
+	}
+
+  a.sf-with-ul {
+    padding-right: 12px;
+    position: relative;
+    /* Styling for navigation arrows  ---------- */
+  }
+
+  &.sf-arrows .sf-with-ul:after {
+    content: '\f078';
+		font-family: FontAwesome;
+    position: absolute;
+    top: 50%;
+    right: $nav-padding - 9;
+    margin-top: -9px;
+		font-size: 8px;
+		font-weight: normal;
+  }
+
+  &.sf-arrows ul .sf-with-ul:after {
+ 		right: 8px;
+		content: "\f054";
+		margin-top: -6px;
+
+    /* Styling for right facing arrows  ---------- */
+  }
+}
+
+.nav-secondary-wrap {
+	padding: 5px 10px;
+	border: 1px solid rgba(#FFF, 0.1);
+	border-radius: 3px;
+	display: inline-block;
+	position: absolute;
+	right: 15px;
+}
+
+.nav-secondary {
+	margin: -5px 0 0;
+	padding: 0;
+	list-style: none;
+	line-height: 1;
+
+	li {
+		display: inline-block;
+		@include secondary-font-style();
+		font-weight: normal;
+		font-size: 10px;
+		letter-spacing: 0;
+
+		a {
+			color: #FFF;
+			padding: 0 7px;
+			display: inline-block;
+		}
+	}
+
+	li:first-child {
+		a {
+			padding-left: 0;
+		}
+	}
+}

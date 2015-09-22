@@ -1,0 +1,9 @@
+/* Light Scheme Color Specific */
+$text-color-light: #363636;
+
+.ci-light-scheme {
+	/* Placeholder text color */
+	@include placeholder {
+		color: rgba($text-color-light, 0.5);
+	}
+}

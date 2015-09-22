@@ -1,0 +1,68 @@
+.group:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.ci-media-manager-gallery .ci-upload-to-gallery-preview {
+	margin: 10px 0px;
+	padding: 5px 0px;
+	border: 1px solid #DFDFDF;
+	border-radius: 3px 3px 3px 3px;
+}
+
+.ci-media-manager-gallery .thumb {
+	margin: 5px;
+	padding: 3px;
+	border: 1px solid #DFDFDF;
+	border-radius: 3px 3px 3px 3px;
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	overflow: hidden;
+}
+
+.ci-media-manager-gallery .thumb img {
+	max-width: 100px;
+}
+
+.ci-media-manager-gallery .thumb .close {
+	background-color: #FFFFFF;
+	background-position: -96px 4px;
+	border-radius: 3px 3px 3px 3px;
+	border-width: 0;
+	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.3);
+	color: #464646;
+	display: none;
+	font-size: 20px;
+	line-height: 20px;
+	padding: 0;
+	position: absolute;
+	right: 5px;
+	text-align: center;
+	text-decoration: none;
+	top: 5px;
+	height: 21px;
+	width: 21px;
+}
+.ci-media-manager-gallery .thumb:hover .close {
+	display: block;
+}
+.ci-media-manager-gallery .ci-upload-to-gallery-preview p {
+	margin: 5px;
+	text-align: center;
+}
+
+/* Custom field wrappers and tabs */
+.ci-cf-wrap { margin-top:12px; }
+.ci-cf-section { border:solid 1px #ccc; padding:15px 15px 5px 15px; border-radius:2px; }
+.ci-cf-guide { background: #fffce6; border: solid 1px #eeeac9; padding:8px; margin:0 0 10px 0; }
+ol.ci-cf-guide { list-style-position: inside; }
+.ci-cf-guide code {  background: #f8e19d; border-radius:2px; border:solid 1px #e5cd84; color: #aa5827; }
+.ci-cf-guide em { font-family: Consolas,Monaco,monospace; font-size:13px; font-style: normal; display:inline-block; padding: 0 3px; margin: 0 1px; border-radius:2px; background: #f1f1f1; color:#fff; border:solid 1px #e6e6e6; color: #333; }
+.ci-cf-title{ margin:0 0 10px 0 !important; }
+.ci-cf-tabs { overflow: hidden; margin:0 0 -1px 0; }
+.ci-cf-tab { float:left; margin:0 10px 0 0; padding:8px 10px; position:relative; top:5px; border:solid 1px #ccc; cursor:pointer; border-radius:2px;}
+.ci-cf-tab-active { background:#333; color:#fff; border:0; padding:11px 10px; top:1px; }
+.ci-cf-wrap .wp-picker-container { display: block; margin-top: 3px; }

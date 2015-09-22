@@ -1,0 +1,164 @@
+/* CI Custom Sound Player */
+#sm2-container {
+	position: absolute;
+	left: -999em;
+	top: -999em;
+}
+
+.hero-player {
+	height: 100px;
+	background: rgba(0,0,0,0.3);
+	margin-top: -260px;
+	position: relative;
+	z-index: 10;
+	border-bottom: 1px solid rgba(255,255,255,0.1);
+	color: #FFF;
+
+	.ci-no-slider & {
+		margin-top: 0;
+	}
+}
+
+.ci-soundplayer {
+	position: relative;
+	@include clearfix();
+	height: 100px;
+	padding: 24px 0;
+
+	&.playing {
+		.ci-soundplayer-play {
+			text-indent: 0;
+
+			.fa-play:before {
+				content: "\f04c";
+			}
+		}
+	}
+}
+
+.ci-soundplayer-controls {
+	width: 120px;
+	float: left;
+	position: relative;
+	text-align: center;
+	margin: 0 25px 0 0;
+
+	a {
+		display: inline-block;
+		color: #FFF;
+		border-radius: 50%;
+
+		&:hover,
+		&:focus {
+			color: #FFF;
+		}
+	}
+}
+
+.ci-soundplayer-play {
+	display: inline-block;
+	text-align: center;
+	width: 53px;
+	height: 53px;
+	background-color: $primary-color;
+	line-height: 53px;
+	font-size: 24px;
+	text-indent: 2px;
+	position: relative;
+	margin: 0 auto;
+	z-index: 2;
+}
+
+.ci-soundplayer-prev,
+.ci-soundplayer-next {
+	background-color: #242424;
+	width: 39px;
+	height: 39px;
+	text-align: center;
+	position: absolute;
+	top: 8px;
+	font-size: 12px;
+	line-height: 38px;
+	z-index: 1;
+
+	.ci-streaming & {
+		opacity: 0.5;
+		pointer-events: none;
+	}
+}
+
+.ci-soundplayer-prev {
+	left: 3px;
+	text-indent: -1px;
+}
+
+.ci-soundplayer-next {
+	right: 3px;
+	text-indent: 1px;
+}
+
+.ci-soundplayer-meta {
+	overflow: hidden;
+	zoom: 1;
+	position: relative;
+	padding: 5px 0 0;
+
+	.track-title {
+		display: inline-block;
+		margin-bottom: 8px;
+		font-size: 14px;
+	}
+
+	.track-bar {
+		width: 100%;
+		height: 5px;
+		background-color: #242424;
+		position: relative;
+		cursor: pointer;
+
+		.ci-streaming & {
+			cursor: default;
+			pointer-events: none;
+		}
+	}
+
+	.progress-bar {
+		height: 5px;
+		background-color: $primary-color;
+		position: absolute;
+		left: 0;
+		top: 0;
+		z-index: 1;
+
+		.ci-streaming & {
+			display: none;
+		}
+	}
+
+	.load-bar {
+		height: 5px;
+		background-color: lighten(#242424, 10%);
+		position: absolute;
+		left: 0;
+		top: 0;
+
+		.ci-streaming & {
+			display: none;
+		}
+	}
+
+	.track-position {
+		font-size: 14px;
+		position: absolute;
+		right: 0;
+		top: 10px;
+
+		.ci-streaming & {
+			display: none;
+		}
+	}
+}
+
+.ci-soundplayer-tracklist {
+	display: none;
+}

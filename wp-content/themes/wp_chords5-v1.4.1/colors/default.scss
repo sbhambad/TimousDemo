@@ -1,0 +1,387 @@
+$primary-color: #ED145B !default;
+$secondary-color: #242424 !default;
+$text-color: #FFF !default;
+$border-color: #363636 !default;
+
+body {
+	color: $text-color;
+}
+
+a {
+	color: $primary-color;
+
+	&:hover,
+	&:focus {
+		color: lighten($primary-color, 10%);
+	}
+}
+
+blockquote {
+	cite {
+		color: rgba($text-color, 0.8);
+	}
+}
+
+
+input,
+textarea {
+	border: 1px solid $border-color;
+
+	&:hover,
+	&:focus {
+		border-color: $primary-color;
+	}
+}
+
+.btn,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+button,
+.button,
+.comment-reply-link{
+	background-color: $primary-color;
+
+	&:hover {
+		background: darken($primary-color, 8%);
+	}
+}
+
+#page {
+	border-color: $primary-color;
+}
+
+#navigation {
+	> li ul a:hover,
+ 	> li ul .sfHover > a {
+		color: #FFF;
+		background: $primary-color;
+	 }
+
+	> li > a:hover,
+	> li.sfHover > a,
+	> li.sfHover > a:active,
+	> li.current_page_item > a,
+	> li.current-menu-item > a,
+	> li.current-menu-ancestor > a,
+	> li.current-menu-parent > a,
+	> li.current > a {
+		border-bottom: 2px solid $primary-color;
+	}
+
+	> li ul a {
+		color: #FFF;
+		background: #000;
+		border-bottom: 1px solid #292322;
+	}
+
+	ul {
+		border: 3px solid #292322;
+	}
+}
+
+.section-title,
+.widget-title {
+	&:after {
+		border-bottom: 1px solid $primary-color;
+	}
+}
+
+.item-thumb {
+	background-color: #242424;
+
+	&:before {
+		box-shadow: inset 0 0 1px 1px rgba(#FFF, 0.15);
+	}
+
+	&:hover {
+		&:before {
+			box-shadow: inset 0 0 1px 1px rgba(#FFF, 0.25);
+		}
+	}
+}
+
+.item-meta {
+	border-top: 1px solid $border-color;
+
+	th, td {
+		border-bottom: 1px solid $border-color;
+		border-left: 1px solid $border-color;
+	}
+
+	td {
+		border-right: 1px solid $border-color;
+	}
+}
+
+.item-timer {
+	.count {
+		border: 1px solid $border-color;
+
+		b {
+			color: $primary-color;
+		}
+	}
+}
+
+.entry-title {
+	a {
+		color: #FFF;
+
+		&:hover {
+			color: $primary-color;
+		}
+	}
+}
+
+.entry-meta {
+	color: #3F3F3F;
+}
+
+#paging,
+.page-numbers li {
+	> span , a {
+		background-color: #1D1D1D;
+
+		&.current {
+			background-color: $primary-color;
+			color: #FFF;
+		}
+	}
+
+	span.current,
+	a:hover {
+		color: #FFF;
+		background-color: $primary-color;
+	}
+}
+
+.filters-nav {
+	.btn {
+		background-color: #1d1d1d;
+
+		&:hover {
+			background-color: $primary-color;
+		}
+	}
+
+	a.selected {
+		background-color: $primary-color;
+	}
+}
+
+.tracklisting {
+	.track {
+		border: 1px solid $border-color;
+
+		&:last-child {
+			border: 1px solid $border-color;
+		}
+
+		&:hover,
+		&.playing {
+			border-color: $primary-color;
+
+			.sm2_link {
+				background-color: $primary-color;
+			}
+
+			.track-no {
+				color: $primary-color;
+			}
+		}
+	}
+}
+
+.sm2_link {
+	background-color: lighten(#1d1d1d, 5%);
+	&:hover,
+	&:focus {
+		color: #FFF;
+		background-color: $primary-color;
+	}
+
+	&.sm2_playing {
+		background-color: $primary-color;
+	}
+}
+
+.track-no {
+	color: lighten($border-color, 15%);
+}
+
+.ci-soundplayer-play {
+	background-color: $primary-color;
+}
+
+.ci-soundplayer-prev,
+.ci-soundplayer-next {
+	background-color: #242424;
+	color: #FFF;
+}
+
+.ci-soundplayer-meta {
+
+	.track-bar {
+		background-color: #242424;
+	}
+
+	.progress-bar {
+		background-color: $primary-color;
+	}
+
+	.load-bar {
+		background-color: lighten(#242424, 10%);
+	}
+}
+
+.form-allowed-tags,
+.comment-notes {
+	color: rgba($text-color, 0.8);
+}
+
+.widget ul li {
+	border-bottom: 1px solid $border-color;
+}
+
+.widget ul ul.children li:first-child {
+	border-top: 1px solid $border-color;
+}
+
+.shop-actions {
+	border-bottom: 1px solid $border-color;
+}
+
+.sale-wrap {
+	background: $primary-color;
+}
+
+.onsale {
+	background: $primary-color;
+}
+
+.quantity {
+	input {
+		background-color: $primary-color
+	}
+}
+
+.woocommerce-tabs {
+	.tabs {
+		border-bottom: 1px solid $border-color;
+
+		li {
+			a {
+				border-top: 1px solid $border-color;
+				border-right: 1px solid $border-color;
+				color: #FFF;
+			}
+		}
+
+		li.active a {
+			color: #FFF;
+			background-color: $primary-color;
+		}
+	}
+}
+
+.entry-content {
+	table {
+		border: 1px solid $border-color;
+
+		caption,
+		th,
+		td {
+			border-bottom: 1px solid $border-color;
+		}
+
+		th {
+			background-color: $primary-color;
+		}
+
+		tr:nth-child(2n) {
+			background-color: darken($border-color, 3%);
+		}
+	}
+}
+
+.shop_attributes {
+	th, td {
+		border-bottom: 1px solid $border-color;
+	}
+
+	tr:first-child {
+		th,td {
+			border-top: 1px solid $border-color;
+		}
+	}
+}
+
+.shop_table {
+	th,
+	td{
+		border-bottom: 1px solid $border-color;
+	}
+}
+
+.cart_totals {
+	th, td {
+		border-bottom: 1px solid $border-color;
+	}
+}
+
+.woocommerce-checkout {
+	.woocommerce-info {
+		border-top: 1px solid $border-color;
+		border-bottom: 1px solid $border-color;
+	}
+}
+
+.payment_box {
+	border: 1px solid $border-color;
+}
+
+.order_details {
+	background: $border-color;
+
+	li {
+		border-bottom: 1px solid $border-color;
+	}
+}
+
+.woocommerce-message,
+.woocommerce-info {
+	background: $border-color;
+}
+
+.widget ul.product_list_widget {
+	li {
+		border-bottom: 1px solid $border-color;
+	}
+}
+
+.price_slider {
+	background: lighten($border-color, 10%);
+
+	.ui-slider-range {
+		background: darken($border-color, 4%);
+		border-top: 1px solid $border-color;
+		border-bottom: 1px solid $border-color;
+	}
+
+	.ui-slider-handle {
+		background: $primary-color;
+	}
+}
+
+.footer-separator {
+	background-color: $primary-color;
+}
+
+@media ( max-width: 767px ) {
+	.item-fullwidth {
+		.item-info {
+			background-color: #363636;
+		}
+	}
+}

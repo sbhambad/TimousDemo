@@ -1,0 +1,46 @@
+/*
+Theme Name: Chords
+Theme URI: http://www.cssigniter.com/chords
+Author: CSSIgniter
+Author URI: http://www.cssigniter.com
+Description: Music theme for WordPress
+Tags: one-column, two-columns, three-columns, right-sidebar, left-sidebar, flexible-width, custom-menu, editor-style, featured-images, translation-ready
+Version: 1.4.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+
+/* -----------------------------------------
+	Table of Contents
+--------------------------------------------
+.. 01. General
+.. 02. Main Navigation
+.. 03. Header
+.. 04. Modules
+.. 05. Footer
+.. 06. Comments
+.. 07. Widgets Styling
+.. 08. WordPress defaults
+.. 09. Mobile Menu
+.. 10. External Plugins
+.. 11. WooCommerce
+.. 12. Global Mediaqueries
+*/
+
+@import 'css/_inc/_variables';
+@import 'css/_inc/_extends';
+@import 'css/_inc/_ci-base';
+@import 'css/_inc/_layout';
+@import 'css/_inc/_navigation';
+@import 'css/_inc/_header';
+@import 'css/_inc/_modules.scss';
+@import 'css/_inc/_footer.scss';
+@import 'css/_inc/_comments';
+@import 'css/_inc/_widgets';
+@import 'css/_inc/_wp-defaults';
+@import 'css/_inc/_mobile-nav';
+@import 'css/_inc/_external';
+@import 'css/_inc/_woocommerce';
+@import 'css/_inc/_schemes';
+@import 'css/_inc/_mediaqueries';

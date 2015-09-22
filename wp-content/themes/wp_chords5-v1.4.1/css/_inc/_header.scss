@@ -1,0 +1,41 @@
+/* -----------------------------------------
+	03. Header
+----------------------------------------- */
+#header {
+	height: 160px;
+	padding: 22px 0;
+	border-bottom: 1px solid rgba(#fff, 0.1);
+	position: relative;
+	z-index: 11;
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+
+	.page-template-template-frontpage-php:not(.ci-no-slider) & {
+		border-bottom: none;
+		background: none;
+	}
+}
+
+.site-logo {
+	font-size: 36px;
+	font-weight: 900;
+	letter-spacing: -0.02em;
+	margin: 20px 0 0;
+
+	a {
+		color: #FFF;
+	}
+}
+
+.cart-head {
+	color: #FFF;
+
+	b {
+		margin-right: 7px;
+	}
+
+	.cart-price {
+		font-weight: bold;
+	}
+}

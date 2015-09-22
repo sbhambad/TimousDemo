@@ -1,0 +1,329 @@
+/* -----------------------------------------
+	07. Widgets Styling
+----------------------------------------- */
+
+.widget {
+	margin: 0 0 50px;
+}
+
+.sidebar .widget:last-child,
+.widget p:last-child { /* Nullify bottom margin for last elements in widgets and sidebars */
+	margin-bottom: 0;
+}
+
+.widget-title {
+	@extend .section-title;
+}
+
+/* Sections */
+.home-sections {
+	.widget {
+		margin: 0;
+	}
+}
+
+section.widget {
+	margin: 0;
+
+	.widget-wrap {
+		padding: 80px 0 90px;
+	}
+}
+
+.parallax {
+	background-attachment: fixed;
+}
+
+/* WIDGET: #CI Items
+========================================= */
+section.widget_ci-items {
+	.widget-wrap {
+		padding-bottom: 65px;
+	}
+}
+
+/* WIDGET: #CI Split Content Widget
+========================================= */
+section.widget_ci-split-content {
+	.widget-wrap {
+		padding-bottom: 100px;
+	}
+
+	h3 {
+		font-size: 36px;
+		font-weight: 900;
+	}
+
+	p:last-of-type {
+		margin-bottom: 40px;
+	}
+}
+
+/* WIDGET: #Newsletter
+========================================= */
+section.widget_ci-newsletter {
+	.widget-wrap {
+		padding: 80px 0;
+	}
+
+	color: #FFF;
+}
+
+.ci-newsletter-form {
+	label {
+		font-size: 24px;
+		text-transform: uppercase;
+		font-weight: 900;
+		margin: 0;
+		line-height: 1.2;
+	}
+
+	span {
+		font-size: 18px;
+	}
+
+	.input-group {
+		position: relative;
+	}
+
+	input[type="email"] {
+		background-color: #FFF;
+		height: 68px;
+		color: #a6a6a6;
+		border: none;
+		box-shadow: none;
+		font-weight: 400;
+		padding-left: 30px;
+		font-style: italic;
+		&::-webkit-input-placeholder { color: #a6a6a6; }
+		&:-moz-placeholder           { color: #a6a6a6; }
+		&::-moz-placeholder          { color: #a6a6a6; }
+		&:-ms-input-placeholder      { color: #a6a6a6; }
+
+		&:hover,
+		&:focus {
+			border: none;
+		}
+	}
+
+	button[type="submit"] {
+		position: absolute;
+		right: 4px;
+		top: 4px;
+		height: 60px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+/* WIDGET: #List Widgets
+========================================= */
+
+.widget ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.widget ul li {
+	padding: 5px 0;
+	border-bottom: 1px solid $border-color;
+	display: block;
+	margin: 0;
+}
+
+.widget ul ul.children li:first-child {
+	border-top: 1px solid $border-color;
+	margin-top: 6px;
+}
+
+.widget ul li:last-of-type {
+	margin-bottom: 0;
+	padding-bottom: 0;
+	border-bottom: 0;
+}
+
+.widget ul.children li {
+}
+
+.widget ul.children li {
+	padding-left: 15px;
+}
+
+.widget .current-cat > a,
+.widget .current-cat-parent > a {
+	font-weight: bold;
+}
+/* WIDGET: #Ads125
+========================================= */
+
+#ads125,
+.ads125 {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+	li {
+		background: none;
+		border: none;
+		float: left;
+		margin: 0 15px 10px 0;
+		padding: 0;
+		max-width: 125px;
+		height: auto;
+	}
+}
+
+/* WIDGET: #Search
+========================================= */
+
+.searchform {
+	> div {
+		position: relative;
+	}
+
+	input[type="text"],
+	input[type="search"] {
+		// Styling for the search input if required
+	}
+
+	.searchsubmit {
+		position: absolute;
+		top: 0;
+		right: 0;
+		height: 100%;
+	}
+}
+
+/* WIDGET: #Flickr
+========================================= */
+
+.flickr_badge_image {
+	float: left;
+	margin: 0 10px 10px 0;
+
+	a {
+		line-height: 0;
+		position: relative;
+		background: #242424;
+		display: inline-block;
+
+		&:after {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			z-index: 1;
+			content: "";
+			box-shadow: inset 0 0 1px 1px rgba(#FFF, 0.15);
+			transition: box-shadow 0.18s ease;
+		}
+
+		&:hover {
+			&:after {
+				box-shadow: inset 0 0 1px 1px rgba(#FFF, 0.25);
+			}
+
+			img {
+				opacity: 0.8;
+			}
+		}
+
+		img {
+			opacity: 0.6;
+			transition: opacity 0.18s ease;
+		}
+	}
+}
+
+/* WIDGET: #About
+========================================= */
+
+.widget_about {
+	margin-top: -5px;
+
+	img {
+		max-width: 100px;
+		height: auto;
+	}
+
+	.alignleft {
+		float: left;
+		margin: 5px 15px 6px 0;
+	}
+
+	.alignright {
+		float: right;
+		margin: 5px 0 6px 15px;
+	}
+}
+
+/* WIDGET: #Text Widget
+========================================= */
+
+.widget_text p:last-child {
+	margin-bottom: 0;
+}
+
+/* WIDGET: #Twitter
+========================================= */
+
+.widget_ci_twitter_widget {
+	ul {
+		li {
+			margin-bottom: 12px;
+		}
+
+		li:first-child {
+			padding-top: 0;
+		}
+	}
+
+	.twitter-time {
+		display: block;
+		font-size: 12px;
+		font-weight: 300;
+		color: #FFF;
+	}
+}
+
+/* WIDGET: #Calendar
+================================================== */
+
+#wp-calendar {
+	width: 100%;
+
+	a {
+		font-weight: bold;
+		font-style: italic;
+	}
+
+	caption {
+		text-align: left;
+		margin-top: 10px;
+		background: none repeat scroll 0 0 rgba(0, 0, 0, 0.03);
+		padding: 9px;
+	}
+
+	thead {
+		font-size: 10px;
+
+		th {
+			background: rgba(0, 0, 0, 0.1);
+			font-weight: bold;
+			padding: 8px;
+		}
+	}
+
+	tbody {
+		td { background: none; border: 1px solid rgba(0, 0, 0, 0.1); text-align: center; padding: 3px;}
+		td:hover { background: rgba(0, 0, 0, 0.1); }
+		.pad { background: none; }
+	}
+
+	tfoot {
+		#next { font-size: 10px; text-transform: uppercase; text-align: right; }
+		#prev { font-size: 10px; text-transform: uppercase; padding-top: 10px; }
+	}
+}

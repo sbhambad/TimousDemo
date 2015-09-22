@@ -1,0 +1,18 @@
+$grid-columns:      12 !default;
+$grid-gutter-width: 30px !default;
+
+$screen-xs-min: 500px !default;
+$screen-sm-min: 798px !default;
+$screen-md-min: 1032px !default;
+$screen-lg-min: 1240px !default;
+
+$screen-xs-max: ($screen-sm-min - 1) !default;
+$screen-sm-max: ($screen-md-min - 1) !default;
+$screen-md-max: ($screen-lg-min - 1) !default;
+
+$primary-color: #ED145B !default;
+$text-color: #FFF !default;
+$border-color: #363636;
+
+$primary-font: "Source Sans Pro", sans-serif;
+$secondary-font: serif;

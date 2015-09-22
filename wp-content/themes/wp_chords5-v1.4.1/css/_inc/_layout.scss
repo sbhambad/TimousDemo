@@ -1,0 +1,25 @@
+#page {
+	width: 100%;
+	height: 100%;
+	border: 20px solid $primary-color;
+
+	@media ( max-width: $screen-sm-max ) {
+		border-width: 15px;
+	}
+
+	@media ( max-width: $screen-xs-max ) {
+		border-width: 10px;
+	}
+}
+
+.noborder #page {
+	border: none;
+}
+
+#main {
+	padding: 80px 0;
+
+	&.home-sections {
+		padding: 0;
+	}
+}

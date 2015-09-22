@@ -1,0 +1,340 @@
+body {
+  background-color: #f8f8f8;
+  color: #363636;
+}
+
+a {
+  color: #2765ba;
+}
+a:hover, a:focus {
+  color: #3e7ed6;
+}
+
+blockquote cite {
+  color: rgba(54, 54, 54, 0.8);
+}
+
+.entry-content table th, .entry-content table td {
+  border-bottom: 1px solid #e0e0e0;
+}
+.entry-content table th {
+  background-color: #2765ba;
+}
+
+input,
+textarea {
+  border: 1px solid #e0e0e0;
+}
+input:hover, input:focus,
+textarea:hover,
+textarea:focus {
+  border-color: #2765ba;
+}
+
+.btn,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+button,
+.button {
+  background-color: #2765ba;
+}
+.btn:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+button:hover,
+.button:hover {
+  background: #205398;
+}
+
+#page {
+  border-color: #2765ba;
+}
+
+#navigation > li ul a:hover,
+#navigation > li ul .sfHover > a {
+  color: #FFF;
+  background: #2765ba;
+}
+#navigation > li > a:hover,
+#navigation > li.sfHover > a,
+#navigation > li.sfHover > a:active,
+#navigation > li.current_page_item > a,
+#navigation > li.current-menu-item > a,
+#navigation > li.current-menu-ancestor > a,
+#navigation > li.current-menu-parent > a,
+#navigation > li.current > a {
+  border-bottom: 2px solid #2765ba;
+}
+#navigation > li ul a {
+  color: #363636;
+  background: #FFF;
+  border-bottom: 1px solid #e0e0e0;
+}
+#navigation ul {
+  border: 3px solid #e0e0e0;
+}
+
+.section-title:after,
+.widget-title:after {
+  border-bottom: 1px solid #2765ba;
+}
+
+.item-thumb {
+  background-color: #242424;
+}
+.item-thumb:before {
+  box-shadow: inset 0 0 1px 1px rgba(255, 255, 255, 0.15);
+}
+.item-thumb:hover:before {
+  box-shadow: inset 0 0 1px 1px rgba(255, 255, 255, 0.25);
+}
+
+.item-meta {
+  border-top: 1px solid #e0e0e0;
+}
+.item-meta th, .item-meta td {
+  border-bottom: 1px solid #e0e0e0;
+  border-left: 1px solid #e0e0e0;
+}
+.item-meta td {
+  border-right: 1px solid #e0e0e0;
+}
+
+.item-timer .count {
+  border: 1px solid #e0e0e0;
+}
+.item-timer .count b {
+  color: #2765ba;
+}
+
+.entry-title a {
+  color: #363636;
+}
+.entry-title a:hover {
+  color: #2765ba;
+}
+
+.entry-meta,
+.entry-time {
+  color: #363636;
+}
+
+#paging > span, #paging a,
+.page-numbers li > span,
+.page-numbers li a {
+  background-color: #e0e0e0;
+  color: #363636;
+}
+#paging > span.current, #paging a.current,
+.page-numbers li > span.current,
+.page-numbers li a.current {
+  background-color: #2765ba;
+  color: #FFF;
+}
+#paging span.current,
+#paging a:hover,
+.page-numbers li span.current,
+.page-numbers li a:hover {
+  color: #FFF;
+  background-color: #2765ba;
+}
+
+.filters-nav .btn {
+  background-color: #e0e0e0;
+  color: #363636;
+}
+.filters-nav .btn:hover {
+  color: #FFF;
+  background-color: #2765ba;
+}
+.filters-nav a.selected {
+  color: #FFF;
+  background-color: #2765ba;
+}
+
+.tracklisting .track {
+  border: 1px solid #e0e0e0;
+}
+.tracklisting .track:last-child {
+  border: 1px solid #e0e0e0;
+}
+.tracklisting .track:hover, .tracklisting .track.playing {
+  border-color: #2765ba;
+}
+.tracklisting .track:hover .sm2_link, .tracklisting .track.playing .sm2_link {
+  color: #FFF;
+  background-color: #2765ba;
+}
+.tracklisting .track:hover .track-no, .tracklisting .track.playing .track-no {
+  color: #2765ba;
+}
+
+.sm2_link {
+  color: #333;
+  background-color: #e0e0e0;
+}
+.sm2_link:hover, .sm2_link:focus {
+  color: #FFF;
+  background-color: #2765ba;
+}
+.sm2_link.sm2_playing {
+  background-color: #2765ba;
+  color: #FFF;
+}
+
+.sm2_link {
+  color: #333;
+}
+.sm2_link.sm2_playing {
+  color: #FFF;
+}
+
+.track-no {
+  color: #bababa;
+}
+
+.ci-soundplayer-play {
+  background-color: #2765ba;
+}
+
+.ci-soundplayer-controls .ci-soundplayer-prev,
+.ci-soundplayer-controls .ci-soundplayer-next {
+  background-color: #d5d5d5;
+  color: #363636;
+}
+.ci-soundplayer-controls .ci-soundplayer-prev:hover,
+.ci-soundplayer-controls .ci-soundplayer-next:hover {
+  color: #333;
+}
+
+.ci-soundplayer-meta .track-bar {
+  background-color: #D5D5D5;
+}
+.ci-soundplayer-meta .progress-bar {
+  background-color: #2765ba;
+}
+.ci-soundplayer-meta .load-bar {
+  background-color: #3e3e3e;
+}
+
+.form-allowed-tags,
+.comment-notes {
+  color: rgba(54, 54, 54, 0.8);
+}
+
+.widget ul li {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.widget ul ul.children li:first-child {
+  border-top: 1px solid #e0e0e0;
+}
+
+.shop-actions {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.sale-wrap {
+  background: #2765ba;
+}
+
+.onsale {
+  background: #2765ba;
+}
+
+.quantity input {
+  background-color: #2765ba;
+}
+
+.woocommerce-tabs .tabs {
+  border-bottom: 1px solid #e0e0e0;
+}
+.woocommerce-tabs .tabs li a {
+  border-top: 1px solid #e0e0e0;
+  border-right: 1px solid #e0e0e0;
+  color: #363636;
+}
+.woocommerce-tabs .tabs li.active a {
+  color: #FFF;
+  background-color: #2765ba;
+}
+
+.shop_attributes th, .shop_attributes td {
+  border-bottom: 1px solid #e0e0e0;
+}
+.shop_attributes tr:first-child th, .shop_attributes tr:first-child td {
+  border-top: 1px solid #e0e0e0;
+}
+
+.shop_table th,
+.shop_table td {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.cart_totals th, .cart_totals td {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.woocommerce-checkout .woocommerce-info {
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.payment_box {
+  border: 1px solid #e0e0e0;
+}
+
+.order_details {
+  background: #e0e0e0;
+}
+.order_details li {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.woocommerce-message,
+.woocommerce-info {
+  background: #e0e0e0;
+}
+
+.widget ul.product_list_widget li {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.price_slider {
+  background: #fafafa;
+}
+.price_slider .ui-slider-range {
+  background: #d6d6d6;
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+}
+.price_slider .ui-slider-handle {
+  background: #2765ba;
+}
+
+.entry-content table {
+  border: 1px solid #e0e0e0;
+}
+.entry-content table caption,
+.entry-content table th,
+.entry-content table td {
+  border-bottom: 1px solid #e0e0e0;
+}
+.entry-content table th {
+  background-color: #2765ba;
+}
+.entry-content table tr:nth-child(2n) {
+  background-color: #d8d8d8;
+}
+
+.footer-separator {
+  background-color: #2765ba;
+}
+
+@media (max-width: 767px) {
+  .item-fullwidth .item-info {
+    background-color: #e0e0e0;
+  }
+}

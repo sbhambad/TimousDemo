@@ -1,0 +1,4687 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chords\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-26 21:49+0300\n"
+"PO-Revision-Date: 2015-08-26 21:49+0300\n"
+"Last-Translator: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"Language-Team: CSSIgniter LLC <info@cssigniter.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:12
+msgid ""
+"Oh, no! The page you requested could not be found. Perhaps searching will "
+"help..."
+msgstr ""
+
+#: ../comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:13
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:13
+msgid "1 comment"
+msgstr ""
+
+#: ../comments.php:13
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions/downloads_handler.php:68
+msgid "Download Handler: Access to this file is not permitted."
+msgstr ""
+
+#: ../functions/nav_menus.php:4
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions/nav_menus.php:5
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../functions/post_types.php:32
+msgctxt "taxonomy general name"
+msgid "Artist Categories"
+msgstr ""
+
+#: ../functions/post_types.php:33
+msgctxt "taxonomy singular name"
+msgid "Artist Category"
+msgstr ""
+
+#: ../functions/post_types.php:34
+msgid "Search Artist Categories"
+msgstr ""
+
+#: ../functions/post_types.php:35
+msgid "All Artist Categories"
+msgstr ""
+
+#: ../functions/post_types.php:36
+msgid "Parent Artist Category"
+msgstr ""
+
+#: ../functions/post_types.php:37
+msgid "Parent Artist Category:"
+msgstr ""
+
+#: ../functions/post_types.php:38
+msgid "Edit Artist Category"
+msgstr ""
+
+#: ../functions/post_types.php:39
+msgid "Update Artist Category"
+msgstr ""
+
+#: ../functions/post_types.php:40
+msgid "Add New Artist Category"
+msgstr ""
+
+#: ../functions/post_types.php:41
+msgid "New Artist Category Name"
+msgstr ""
+
+#: ../functions/post_types.php:42 ../functions/post_types.php:88
+#: ../functions/post_types.php:111 ../functions/post_types.php:134
+#: ../functions/post_types.php:156
+msgid "Categories"
+msgstr ""
+
+#: ../functions/post_types.php:43
+msgid "View Artist Category"
+msgstr ""
+
+#: ../functions/post_types.php:44
+msgid "Popular Artist Categories"
+msgstr ""
+
+#: ../functions/post_types.php:50
+msgctxt "taxonomy slug"
+msgid "artist-category"
+msgstr ""
+
+#: ../functions/post_types.php:55
+msgctxt "taxonomy general name"
+msgid "Discography Sections"
+msgstr ""
+
+#: ../functions/post_types.php:56
+msgctxt "taxonomy singular name"
+msgid "Discography Section"
+msgstr ""
+
+#: ../functions/post_types.php:57
+msgid "Search Discography Sections"
+msgstr ""
+
+#: ../functions/post_types.php:58
+msgid "All Discography Sections"
+msgstr ""
+
+#: ../functions/post_types.php:59
+msgid "Parent Discography Section"
+msgstr ""
+
+#: ../functions/post_types.php:60
+msgid "Parent Discography Section:"
+msgstr ""
+
+#: ../functions/post_types.php:61
+msgid "Edit Discography Section"
+msgstr ""
+
+#: ../functions/post_types.php:62
+msgid "Update Discography Section"
+msgstr ""
+
+#: ../functions/post_types.php:63
+msgid "Add New Discography Section"
+msgstr ""
+
+#: ../functions/post_types.php:64
+msgid "New Discography Section Name"
+msgstr ""
+
+#: ../functions/post_types.php:65
+msgid "Discography Sections"
+msgstr ""
+
+#: ../functions/post_types.php:66
+msgid "View Discography Section"
+msgstr ""
+
+#: ../functions/post_types.php:67
+msgid "Popular Discography Sections"
+msgstr ""
+
+#: ../functions/post_types.php:73
+msgctxt "taxonomy slug"
+msgid "section"
+msgstr ""
+
+#: ../functions/post_types.php:78
+msgctxt "taxonomy general name"
+msgid "Video Categories"
+msgstr ""
+
+#: ../functions/post_types.php:79
+msgctxt "taxonomy singular name"
+msgid "Video Category"
+msgstr ""
+
+#: ../functions/post_types.php:80
+msgid "Search Video Categories"
+msgstr ""
+
+#: ../functions/post_types.php:81
+msgid "All Video Categories"
+msgstr ""
+
+#: ../functions/post_types.php:82
+msgid "Parent Video Category"
+msgstr ""
+
+#: ../functions/post_types.php:83
+msgid "Parent Video Category:"
+msgstr ""
+
+#: ../functions/post_types.php:84
+msgid "Edit Video Category"
+msgstr ""
+
+#: ../functions/post_types.php:85
+msgid "Update Video Category"
+msgstr ""
+
+#: ../functions/post_types.php:86
+msgid "Add New Video Category"
+msgstr ""
+
+#: ../functions/post_types.php:87
+msgid "New Video Category Name"
+msgstr ""
+
+#: ../functions/post_types.php:89
+msgid "View Video Category"
+msgstr ""
+
+#: ../functions/post_types.php:90
+msgid "Popular Video Categories"
+msgstr ""
+
+#: ../functions/post_types.php:96
+msgctxt "taxonomy slug"
+msgid "video-category"
+msgstr ""
+
+#: ../functions/post_types.php:101
+msgctxt "taxonomy general name"
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../functions/post_types.php:102
+msgctxt "taxonomy singular name"
+msgid "Gallery Category"
+msgstr ""
+
+#: ../functions/post_types.php:103
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../functions/post_types.php:104
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../functions/post_types.php:105
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../functions/post_types.php:106
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../functions/post_types.php:107
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../functions/post_types.php:108
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../functions/post_types.php:109
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../functions/post_types.php:110
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../functions/post_types.php:112
+msgid "View Gallery Category"
+msgstr ""
+
+#: ../functions/post_types.php:113
+msgid "Popular Gallery Categories"
+msgstr ""
+
+#: ../functions/post_types.php:119
+msgctxt "taxonomy slug"
+msgid "gallery-category"
+msgstr ""
+
+#: ../functions/post_types.php:124
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr ""
+
+#: ../functions/post_types.php:125
+msgctxt "taxonomy singular name"
+msgid "Event Category"
+msgstr ""
+
+#: ../functions/post_types.php:126
+msgid "Search Event Categories"
+msgstr ""
+
+#: ../functions/post_types.php:127
+msgid "All Event Categories"
+msgstr ""
+
+#: ../functions/post_types.php:128
+msgid "Parent Event Category"
+msgstr ""
+
+#: ../functions/post_types.php:129
+msgid "Parent Event Category:"
+msgstr ""
+
+#: ../functions/post_types.php:130
+msgid "Edit Event Category"
+msgstr ""
+
+#: ../functions/post_types.php:131
+msgid "Update Event Category"
+msgstr ""
+
+#: ../functions/post_types.php:132
+msgid "Add New Event Category"
+msgstr ""
+
+#: ../functions/post_types.php:133
+msgid "New Event Category Name"
+msgstr ""
+
+#: ../functions/post_types.php:135
+msgid "View Event Category"
+msgstr ""
+
+#: ../functions/post_types.php:136
+msgid "Popular Event Categories"
+msgstr ""
+
+#: ../functions/post_types.php:142
+msgctxt "taxonomy slug"
+msgid "event-category"
+msgstr ""
+
+#: ../functions/post_types.php:146
+msgctxt "taxonomy general name"
+msgid "Slider Categories"
+msgstr ""
+
+#: ../functions/post_types.php:147
+msgctxt "taxonomy singular name"
+msgid "Slider Category"
+msgstr ""
+
+#: ../functions/post_types.php:148
+msgid "Search Slider Categories"
+msgstr ""
+
+#: ../functions/post_types.php:149
+msgid "All Slider Categories"
+msgstr ""
+
+#: ../functions/post_types.php:150
+msgid "Parent Slider Category"
+msgstr ""
+
+#: ../functions/post_types.php:151
+msgid "Parent Slider Category:"
+msgstr ""
+
+#: ../functions/post_types.php:152
+msgid "Edit Slider Category"
+msgstr ""
+
+#: ../functions/post_types.php:153
+msgid "Update Slider Category"
+msgstr ""
+
+#: ../functions/post_types.php:154
+msgid "Add New Slider Category"
+msgstr ""
+
+#: ../functions/post_types.php:155
+msgid "New Slider Category Name"
+msgstr ""
+
+#: ../functions/post_types.php:157
+msgid "View Slider Category"
+msgstr ""
+
+#: ../functions/post_types.php:158
+msgid "Popular Slider Categories"
+msgstr ""
+
+#: ../functions/post_types.php:164
+msgctxt "taxonomy slug"
+msgid "slider-category"
+msgstr ""
+
+#: ../functions/post_types/artist.php:11
+msgctxt "post type general name"
+msgid "Artists"
+msgstr ""
+
+#: ../functions/post_types/artist.php:12
+msgctxt "post type singular name"
+msgid "Artist"
+msgstr ""
+
+#: ../functions/post_types/artist.php:13
+#: ../functions/post_types/discography.php:15
+#: ../functions/post_types/gallery.php:12 ../functions/post_types/slider.php:12
+#: ../functions/post_types/video.php:13
+msgid "Add New"
+msgstr ""
+
+#: ../functions/post_types/artist.php:14
+msgid "Add New Artist"
+msgstr ""
+
+#: ../functions/post_types/artist.php:15
+msgid "Edit Artist"
+msgstr ""
+
+#: ../functions/post_types/artist.php:16
+msgid "New Artist"
+msgstr ""
+
+#: ../functions/post_types/artist.php:17
+msgid "View Artist"
+msgstr ""
+
+#: ../functions/post_types/artist.php:18
+msgid "Search Artists"
+msgstr ""
+
+#: ../functions/post_types/artist.php:19
+msgid "No Artists found"
+msgstr ""
+
+#: ../functions/post_types/artist.php:20
+msgid "No Artists found in the trash"
+msgstr ""
+
+#: ../functions/post_types/artist.php:21
+msgid "Parent Artist:"
+msgstr ""
+
+#: ../functions/post_types/artist.php:26
+#: ../functions/post_types/discography.php:152
+#: ../functions/post_types/discography.php:170
+msgid "Artist"
+msgstr ""
+
+#: ../functions/post_types/artist.php:31
+msgctxt "post type archive slug"
+msgid "artists-archive"
+msgstr ""
+
+#: ../functions/post_types/artist.php:32
+msgctxt "post type slug"
+msgid "artist"
+msgstr ""
+
+#: ../functions/post_types/artist.php:55
+msgid "Artist Settings"
+msgstr ""
+
+#: ../functions/post_types/artist.php:65
+#: ../functions/post_types/discography.php:72
+#: ../functions/post_types/event.php:80 ../functions/post_types/video.php:70
+msgid "Information"
+msgstr ""
+
+#: ../functions/post_types/artist.php:67
+#: ../functions/post_types/discography.php:74
+#: ../functions/post_types/event.php:82 ../functions/post_types/video.php:72
+msgid ""
+"You may include as many rows of information as you want. Press <em>Add "
+"Field</em> to add a new row. Press <em>Remove me</em> to delete a specific "
+"row. You can rearrange rows by drag and drop. You may leave empty the title "
+"or the description, but not both."
+msgstr ""
+
+#: ../functions/post_types/artist.php:68
+#: ../functions/post_types/discography.php:75
+#: ../functions/post_types/event.php:83 ../functions/post_types/video.php:73
+msgid ""
+"Allowed tags in description: a (href, class), span (class), i (class), b, "
+"em, strong. E.g.: <code>&lt;a href=\"#\" class=\"btn\">Button text&lt;/a></"
+"code>"
+msgstr ""
+
+#: ../functions/post_types/artist.php:80 ../functions/post_types/artist.php:89
+#: ../functions/post_types/discography.php:88
+#: ../functions/post_types/discography.php:105
+#: ../functions/post_types/event.php:95 ../functions/post_types/event.php:104
+#: ../functions/post_types/video.php:85 ../functions/post_types/video.php:94
+#: ../functions/widgets/ci_widget_events.php:198
+#: ../functions/widgets/ci_widget_newsletter.php:120
+#: ../functions/widgets/ci_widget_top_tracks.php:146
+#: ../panel/widgets/ci_widget_about.php:64
+#: ../panel/widgets/ci_widget_flickr.php:98
+#: ../panel/widgets/ci_widget_social.php:67
+#: ../panel/widgets/ci_widget_tweets.php:149
+msgid "Title:"
+msgstr ""
+
+#: ../functions/post_types/artist.php:81 ../functions/post_types/artist.php:90
+#: ../functions/post_types/discography.php:93
+#: ../functions/post_types/discography.php:110
+#: ../functions/post_types/event.php:96 ../functions/post_types/event.php:105
+#: ../functions/post_types/video.php:86 ../functions/post_types/video.php:95
+#: ../functions/widgets/ci_widget_newsletter.php:121
+msgid "Description:"
+msgstr ""
+
+#: ../functions/post_types/artist.php:82 ../functions/post_types/artist.php:91
+#: ../functions/post_types/discography.php:97
+#: ../functions/post_types/discography.php:114
+#: ../functions/post_types/event.php:97 ../functions/post_types/event.php:106
+#: ../functions/post_types/video.php:87 ../functions/post_types/video.php:96
+#: ../functions/widgets/ci_widget_items.php:245
+#: ../functions/widgets/ci_widget_items.php:278
+#: ../functions/widgets/ci_widget_top_tracks.php:161
+#: ../functions/widgets/ci_widget_top_tracks.php:175
+#: ../panel/snippets/newsletter_hidden_fields.php:43
+#: ../panel/snippets/newsletter_hidden_fields.php:52
+msgid "Remove me"
+msgstr ""
+
+#: ../functions/post_types/artist.php:94
+#: ../functions/post_types/discography.php:117
+#: ../functions/post_types/event.php:109 ../functions/post_types/video.php:99
+#: ../functions/widgets/ci_widget_items.php:281
+#: ../functions/widgets/ci_widget_top_tracks.php:179
+msgid "Add Field"
+msgstr ""
+
+#: ../functions/post_types/artist.php:100
+#: ../functions/post_types/discography.php:194
+#: ../functions/post_types/event.php:150 ../functions/post_types/video.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/post_types/artist.php:101
+#: ../functions/post_types/discography.php:195
+#: ../functions/post_types/event.php:151 ../functions/post_types/video.php:106
+msgid ""
+"You can change the placement of the informational sidebar of this post, to "
+"be either always on the left or always on the right. If you leave it empty, "
+"it will follow the global <strong>Site layout</strong> option, which can be "
+"changed from the Theme's settings panel."
+msgstr ""
+
+#: ../functions/post_types/artist.php:104
+#: ../functions/post_types/discography.php:198
+#: ../functions/post_types/event.php:154 ../functions/post_types/post.php:35
+#: ../functions/post_types/video.php:109
+msgid "Always left"
+msgstr ""
+
+#: ../functions/post_types/artist.php:105
+#: ../functions/post_types/discography.php:199
+#: ../functions/post_types/event.php:155 ../functions/post_types/post.php:36
+#: ../functions/post_types/video.php:110
+msgid "Always right"
+msgstr ""
+
+#: ../functions/post_types/artist.php:107
+#: ../functions/post_types/discography.php:201
+#: ../functions/post_types/event.php:157 ../functions/post_types/post.php:38
+#: ../functions/post_types/video.php:112
+msgid "Sidebar placement:"
+msgstr ""
+
+#: ../functions/post_types/discography.php:11
+msgctxt "post type general name"
+msgid "Discography"
+msgstr ""
+
+#: ../functions/post_types/discography.php:12
+msgctxt "post type singular name"
+msgid "Discography Item"
+msgstr ""
+
+#: ../functions/post_types/discography.php:13
+msgctxt "admin menu"
+msgid "Discography"
+msgstr ""
+
+#: ../functions/post_types/discography.php:14
+msgctxt "add new on admin bar"
+msgid "Discography Item"
+msgstr ""
+
+#: ../functions/post_types/discography.php:16
+msgid "Add New Discography Item"
+msgstr ""
+
+#: ../functions/post_types/discography.php:17
+msgid "Edit Discography Item"
+msgstr ""
+
+#: ../functions/post_types/discography.php:18
+msgid "New Discography Item"
+msgstr ""
+
+#: ../functions/post_types/discography.php:19
+msgid "View Discography Item"
+msgstr ""
+
+#: ../functions/post_types/discography.php:20
+msgid "Search Discography Items"
+msgstr ""
+
+#: ../functions/post_types/discography.php:21
+msgid "No Discography Items found"
+msgstr ""
+
+#: ../functions/post_types/discography.php:22
+msgid "No Discography Items found in the trash"
+msgstr ""
+
+#: ../functions/post_types/discography.php:23
+msgid "Parent Discography Item:"
+msgstr ""
+
+#: ../functions/post_types/discography.php:28
+msgid "Discography Item"
+msgstr ""
+
+#: ../functions/post_types/discography.php:33
+msgctxt "post type archive slug"
+msgid "discography-archive"
+msgstr ""
+
+#: ../functions/post_types/discography.php:34
+msgctxt "post type slug"
+msgid "discography"
+msgstr ""
+
+#: ../functions/post_types/discography.php:57
+msgid "Discography Settings"
+msgstr ""
+
+#: ../functions/post_types/discography.php:66
+#: ../functions/post_types/event.php:66 ../functions/post_types/video.php:62
+msgid "Details"
+msgstr ""
+
+#: ../functions/post_types/discography.php:67
+msgid "Release Date."
+msgstr ""
+
+#: ../functions/post_types/discography.php:68
+msgid "Record Label."
+msgstr ""
+
+#: ../functions/post_types/discography.php:69
+msgid "Catalog Number."
+msgstr ""
+
+#: ../functions/post_types/discography.php:123
+msgid "Tracks"
+msgstr ""
+
+#: ../functions/post_types/discography.php:124
+msgid ""
+"You may add the tracks of your release, along with related information such "
+"as a Download URL, Buy URL and lyrics. Press the <em>Add Track</em> button "
+"to add a new track, and individually the <em>Remove me</em> button to delete "
+"a track. You can also use a SoundCloud URL in place of the Play URL."
+msgstr ""
+
+#: ../functions/post_types/discography.php:127
+#: ../functions/post_types/discography.php:181
+msgid "Add Track"
+msgstr ""
+
+#: ../functions/post_types/discography.php:131
+msgid "#"
+msgstr ""
+
+#: ../functions/post_types/discography.php:132
+#: ../functions/post_types/discography.php:151
+#: ../functions/post_types/discography.php:169
+#: ../functions/widgets/ci_widget_latest_posts.php:186
+#: ../panel/widgets/ci_widget_ads125.php:101
+msgid "Title"
+msgstr ""
+
+#: ../functions/post_types/discography.php:133
+msgid "Subtitle"
+msgstr ""
+
+#: ../functions/post_types/discography.php:134
+#: ../functions/post_types/discography.php:153
+#: ../functions/post_types/discography.php:171
+msgid "Buy URL"
+msgstr ""
+
+#: ../functions/post_types/discography.php:135
+#: ../functions/post_types/discography.php:154
+#: ../functions/post_types/discography.php:172
+msgid "Play URL"
+msgstr ""
+
+#: ../functions/post_types/discography.php:136
+#: ../functions/post_types/discography.php:155
+#: ../functions/post_types/discography.php:173
+msgid "Download URL"
+msgstr ""
+
+#: ../functions/post_types/discography.php:150
+#: ../functions/post_types/discography.php:168
+msgctxt "track number"
+msgid "#"
+msgstr ""
+
+#: ../functions/post_types/discography.php:159
+#: ../functions/post_types/discography.php:177
+msgid "Song Lyrics"
+msgstr ""
+
+#: ../functions/post_types/discography.php:185
+msgid ""
+"Your tracks will be displayed on top of your content. If you want to show "
+"them in another place in the content, you can use the <code>[tracklisting]</"
+"code> shortcode at the desired position."
+msgstr ""
+
+#: ../functions/post_types/discography.php:186
+msgid ""
+"The <code>[tracklisting]</code> shortcode, by default will display the "
+"tracks of the current discography item. You may also display the track "
+"listing of any discography item in any other post/page or widget (that "
+"supports shortcodes) by passing the <code>ID</code> or <code>slug</code> "
+"parameter to the shortcode. E.g. <code>[tracklisting id=\"25\"]</code> or "
+"<code>[tracklisting slug=\"the-division-bell\"]</code>"
+msgstr ""
+
+#: ../functions/post_types/discography.php:187
+msgid ""
+"You can also selectively display tracks, by passing their track number "
+"(counting from 1), separated by a comma, like this <code>[tracklisting "
+"tracks=\"2,5,8\"]</code> and can limit the total number of tracks displayed "
+"like <code>[tracklisting limit=\"3\"]</code>"
+msgstr ""
+
+#: ../functions/post_types/discography.php:188
+msgid ""
+"Of course, you can mix and match the parameters, so the following is totally "
+"valid: <code>[tracklisting slug=\"the-division-bell\" tracks=\"2,5,8\" limit="
+"\"2\"]</code>"
+msgstr ""
+
+#: ../functions/post_types/discography.php:189
+msgid ""
+"You may also add a SoundCloud track by copying the track's URL (the one "
+"given by it's <em>Share</em> button) and pasting it into the Play URL field."
+msgstr ""
+
+#: ../functions/post_types/event.php:11
+msgctxt "post type general name"
+msgid "Events"
+msgstr ""
+
+#: ../functions/post_types/event.php:12
+msgctxt "post type singular name"
+msgid "Event"
+msgstr ""
+
+#: ../functions/post_types/event.php:13 ../functions/post_types/event.php:16
+msgid "New Event"
+msgstr ""
+
+#: ../functions/post_types/event.php:14
+msgid "Add New Event"
+msgstr ""
+
+#: ../functions/post_types/event.php:15
+msgid "Edit Event"
+msgstr ""
+
+#: ../functions/post_types/event.php:17
+msgid "View Event"
+msgstr ""
+
+#: ../functions/post_types/event.php:18
+msgid "Search Events"
+msgstr ""
+
+#: ../functions/post_types/event.php:19
+msgid "No Events found"
+msgstr ""
+
+#: ../functions/post_types/event.php:20
+msgid "No Events found in the trash"
+msgstr ""
+
+#: ../functions/post_types/event.php:21
+msgid "Parent Event:"
+msgstr ""
+
+#: ../functions/post_types/event.php:26
+msgid "Event"
+msgstr ""
+
+#: ../functions/post_types/event.php:31
+msgctxt "post type archive slug"
+msgid "events-archive"
+msgstr ""
+
+#: ../functions/post_types/event.php:32
+msgctxt "post type slug"
+msgid "event"
+msgstr ""
+
+#: ../functions/post_types/event.php:55
+msgid "Events Settings"
+msgstr ""
+
+#: ../functions/post_types/event.php:67
+msgid "Event Location. For example: Ibiza, Spain"
+msgstr ""
+
+#: ../functions/post_types/event.php:68
+msgid "Event Venue. For example: Ushuaia"
+msgstr ""
+
+#: ../functions/post_types/event.php:69
+msgid "Recurrent Event"
+msgstr ""
+
+#: ../functions/post_types/event.php:71
+msgid "Event Recurrence (e.g. <b>Every TUE at 22:00</b>)."
+msgstr ""
+
+#: ../functions/post_types/event.php:74
+msgid "Event Date. Use the Date Picker (Click inside the field)."
+msgstr ""
+
+#: ../functions/post_types/event.php:75
+msgid "Event Time (e.g. <b>21:00</b>)"
+msgstr ""
+
+#: ../functions/post_types/event.php:115
+#: ../panel/libraries/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: ../functions/post_types/event.php:116
+msgid ""
+"In this section you can create two status buttons. The <em>Upcoming date</"
+"em> button will be the one displayed <strong>before</strong> the event's "
+"date, while the <em>Past date</em> button will be displayed <strong>after</"
+"strong> the event's date passes. This is useful so that you will not need to "
+"keep coming back editing the event, in situations like, providing a <em>Buy "
+"Tickets</em> button before the event and a <em>Watch Recorded</em> button "
+"afterwards. Leave a button's URL empty if you want it to be unclickable (e."
+"g. when <strong>Canceled)</strong>."
+msgstr ""
+
+#: ../functions/post_types/event.php:117
+msgid "Upcoming date button"
+msgstr ""
+
+#: ../functions/post_types/event.php:118
+msgid "Button text (e.g. <em>Buy now</em>, <em>Watch live</em>, etc):"
+msgstr ""
+
+#: ../functions/post_types/event.php:119 ../functions/post_types/event.php:122
+msgid "Button URL:"
+msgstr ""
+
+#: ../functions/post_types/event.php:120
+msgid "Past date button"
+msgstr ""
+
+#: ../functions/post_types/event.php:121
+msgid "Button text (e.g. <em>Buy album</em>, <em>Watch recorded</em>, etc):"
+msgstr ""
+
+#: ../functions/post_types/event.php:126
+msgid "Map"
+msgstr ""
+
+#: ../functions/post_types/event.php:127
+msgid ""
+"Enter a place or address and press <em>Search place/address</em>. "
+"Alternatively, you can drag the marker to the desired position, or double "
+"click on the map to set a new location."
+msgstr ""
+
+#: ../functions/post_types/event.php:131
+msgid "Search place/address"
+msgstr ""
+
+#: ../functions/post_types/event.php:132
+msgid "Google Maps"
+msgstr ""
+
+#: ../functions/post_types/event.php:135
+msgid "Location Latitude."
+msgstr ""
+
+#: ../functions/post_types/event.php:139
+msgid "Location Longitude."
+msgstr ""
+
+#: ../functions/post_types/event.php:144
+msgid "Update map"
+msgstr ""
+
+#: ../functions/post_types/event.php:211
+msgid "Event Name"
+msgstr ""
+
+#: ../functions/post_types/event.php:212
+msgid "Event location"
+msgstr ""
+
+#: ../functions/post_types/event.php:213
+msgid "Event Date"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:10
+msgctxt "post type general name"
+msgid "Galleries"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:11
+msgctxt "post type singular name"
+msgid "Gallery"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:13
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:14
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:15
+msgid "New Gallery"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:16
+msgid "View Gallery"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:17
+msgid "Search Galleries"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:18
+msgid "No Galleries found"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:19
+msgid "No Galleries found in the trash"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:20
+msgid "Parent Gallery:"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:25
+msgid "Gallery"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:30
+msgctxt "post type archive slug"
+msgid "galleries-archive"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:31
+msgctxt "post type slug"
+msgid "gallery"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:54
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:65
+msgid "Photo gallery Location. For example: Ibiza, Spain"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:66
+msgid "Enable image captions"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:67
+msgid ""
+"You can create a featured gallery by pressing the \"Add Images\" button "
+"below. You should also set a featured image that will be used as this "
+"Gallery's cover."
+msgstr ""
+
+#: ../functions/post_types/gallery.php:71 ../functions/post_types/page.php:89
+#: ../functions/post_types/page.php:112 ../functions/post_types/page.php:134
+#: ../functions/post_types/page.php:156 ../functions/post_types/page.php:183
+#: ../functions/tabs/archive_options.php:85
+#: ../functions/tabs/archive_options.php:105
+#: ../functions/tabs/archive_options.php:125
+#: ../functions/tabs/archive_options.php:145
+#: ../functions/tabs/archive_options.php:165
+#: ../functions/tabs/blog_options.php:37
+#, php-format
+msgid "1 Column"
+msgid_plural "%s Columns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions/post_types/gallery.php:73
+msgid "Number of columns to display this gallery in:"
+msgstr ""
+
+#: ../functions/post_types/gallery.php:74 ../functions/post_types/page.php:92
+#: ../functions/post_types/page.php:115 ../functions/post_types/page.php:137
+#: ../functions/post_types/page.php:159 ../functions/post_types/page.php:186
+msgid "Masonry effect (not applicable to 1 column layout)."
+msgstr ""
+
+#: ../functions/post_types/page.php:11
+msgid "Fixed layout"
+msgstr ""
+
+#: ../functions/post_types/page.php:12
+msgid "Artists Listing Options"
+msgstr ""
+
+#: ../functions/post_types/page.php:13
+msgid "Discography Listing Options"
+msgstr ""
+
+#: ../functions/post_types/page.php:14
+msgid "Galleries Listing Options"
+msgstr ""
+
+#: ../functions/post_types/page.php:15
+msgid "Videos Listing Options"
+msgstr ""
+
+#: ../functions/post_types/page.php:16
+msgid "Events Listing Options"
+msgstr ""
+
+#: ../functions/post_types/page.php:17
+msgid "Frontpage Options"
+msgstr ""
+
+#: ../functions/post_types/page.php:66
+msgid ""
+"Select the desired layout of this page. This option overrides the global "
+"layout of your website, so it will always be shown according to your "
+"selected option below."
+msgstr ""
+
+#: ../functions/post_types/page.php:68
+msgid "Sidebar on the left"
+msgstr ""
+
+#: ../functions/post_types/page.php:69
+msgid "Sidebar on the right"
+msgstr ""
+
+#: ../functions/post_types/page.php:70 ../functions/tabs/blog_options.php:29
+msgid "Full width - No sidebar"
+msgstr ""
+
+#: ../functions/post_types/page.php:72
+msgid "Fixed page layout"
+msgstr ""
+
+#: ../functions/post_types/page.php:91 ../functions/tabs/archive_options.php:87
+msgid "Artists listing columns:"
+msgstr ""
+
+#: ../functions/post_types/page.php:93 ../functions/post_types/page.php:116
+#: ../functions/post_types/page.php:138 ../functions/post_types/page.php:160
+#: ../functions/post_types/page.php:187
+msgid "Isotope effect (ignores <em>Items per page</em> setting."
+msgstr ""
+
+#: ../functions/post_types/page.php:94
+#, php-format
+msgid ""
+"Set the number of items per page that you want to display. Setting this to "
+"<strong>-1</strong> will show <strong>all items</strong>>, while setting it "
+"to zero or leaving it empty, will follow the global option set from "
+"<em>Settings -> Reading</em>, currently set to <strong>%s items per page</"
+"strong>."
+msgstr ""
+
+#: ../functions/post_types/page.php:95 ../functions/post_types/page.php:118
+#: ../functions/post_types/page.php:140 ../functions/post_types/page.php:162
+#: ../functions/post_types/page.php:190
+msgid "Items per page:"
+msgstr ""
+
+#: ../functions/post_types/page.php:114
+#: ../functions/tabs/archive_options.php:107
+msgid "Discography listing columns:"
+msgstr ""
+
+#: ../functions/post_types/page.php:117
+#, php-format
+msgid ""
+"Set the number of items per page that you want to display. Setting this to "
+"<strong>-1</strong> will show <strong>>all items</strong>, while setting it "
+"to zero or leaving it empty, will follow the global option set from "
+"<em>Settings -> Reading</em>, currently set to <strong>%s items per page</"
+"strong>."
+msgstr ""
+
+#: ../functions/post_types/page.php:136
+#: ../functions/tabs/archive_options.php:167
+msgid "Galleries listing columns:"
+msgstr ""
+
+#: ../functions/post_types/page.php:139 ../functions/post_types/page.php:161
+#: ../functions/post_types/page.php:189
+#, php-format
+msgid ""
+"Set the number of items per page that you want to display. Setting this to "
+"<strong>-1</strong> will show <strong>all items</strong>, while setting it "
+"to zero or leaving it empty, will follow the global option set from "
+"<em>Settings -> Reading</em>, currently set to <strong>%s items per page</"
+"strong>."
+msgstr ""
+
+#: ../functions/post_types/page.php:158
+#: ../functions/tabs/archive_options.php:127
+msgid "Videos listing columns:"
+msgstr ""
+
+#: ../functions/post_types/page.php:176
+msgid "Show upcoming events."
+msgstr ""
+
+#: ../functions/post_types/page.php:177
+msgid "Upcoming events title:"
+msgstr ""
+
+#: ../functions/post_types/page.php:177
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../functions/post_types/page.php:178
+msgid "Show past events."
+msgstr ""
+
+#: ../functions/post_types/page.php:179
+msgid "Past events title:"
+msgstr ""
+
+#: ../functions/post_types/page.php:179
+msgid "Past Events"
+msgstr ""
+
+#: ../functions/post_types/page.php:185
+#: ../functions/tabs/archive_options.php:147
+msgid "Events listing columns:"
+msgstr ""
+
+#: ../functions/post_types/page.php:207
+msgid ""
+"Select the base slideshow category. Only items of the selected category will "
+"be displayed. If you don't select one (i.e. empty) slides from all "
+"categories will be shown."
+msgstr ""
+
+#: ../functions/post_types/page.php:208
+msgid "Base category:"
+msgstr ""
+
+#: ../functions/post_types/post.php:12
+msgid "Post layout"
+msgstr ""
+
+#: ../functions/post_types/post.php:32
+msgid ""
+"You can change the placement of the sidebar for this post, to be either "
+"always on the left or always on the right. If you leave it empty, it will "
+"follow the global <strong>Site layout</strong> option, which can be changed "
+"from the Theme's settings panel."
+msgstr ""
+
+#: ../functions/post_types/slider.php:10
+msgctxt "post type general name"
+msgid "Slideshow"
+msgstr ""
+
+#: ../functions/post_types/slider.php:11
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+
+#: ../functions/post_types/slider.php:13
+msgid "Add New Slide"
+msgstr ""
+
+#: ../functions/post_types/slider.php:14
+msgid "Edit Slide"
+msgstr ""
+
+#: ../functions/post_types/slider.php:15
+msgid "New Slide"
+msgstr ""
+
+#: ../functions/post_types/slider.php:16
+msgid "View Slide"
+msgstr ""
+
+#: ../functions/post_types/slider.php:17
+msgid "Search Slides"
+msgstr ""
+
+#: ../functions/post_types/slider.php:18
+msgid "No Slides found"
+msgstr ""
+
+#: ../functions/post_types/slider.php:19
+msgid "No Slides found in the trash"
+msgstr ""
+
+#: ../functions/post_types/slider.php:20
+msgid "Parent Slide:"
+msgstr ""
+
+#: ../functions/post_types/slider.php:25
+msgid "Slide"
+msgstr ""
+
+#: ../functions/post_types/slider.php:31
+msgctxt "post type slug"
+msgid "slider"
+msgstr ""
+
+#: ../functions/post_types/slider.php:54
+msgid "Slide Settings"
+msgstr ""
+
+#: ../functions/post_types/slider.php:64
+msgid ""
+"Slide URL. If someone clicks on this slide, this is the link that they will "
+"be visiting. If you leave it empty, linking for this slide will be disabled."
+msgstr ""
+
+#: ../functions/post_types/slider.php:65
+msgid "Slide text (appears below the title)"
+msgstr ""
+
+#: ../functions/post_types/slider.php:66
+#, php-format
+msgid ""
+"In the following box, you can simply enter the URL of a supported website's "
+"video. It needs to start with <code>http://</code> or <code>https://</code> "
+"(E.g. <code>%1$s</code>). A list of supported websites can be <a href=\"%2$s"
+"\">found here</a>. When a video is shown, no text appears in the slide (e.g. "
+"title, content, button)."
+msgstr ""
+
+#: ../functions/post_types/slider.php:67 ../functions/post_types/video.php:66
+msgid "Video URL:"
+msgstr ""
+
+#: ../functions/post_types/video.php:11
+msgctxt "post type general name"
+msgid "Videos"
+msgstr ""
+
+#: ../functions/post_types/video.php:12
+msgctxt "post type singular name"
+msgid "Video"
+msgstr ""
+
+#: ../functions/post_types/video.php:14
+msgid "Add New Video"
+msgstr ""
+
+#: ../functions/post_types/video.php:15
+msgid "Edit Video"
+msgstr ""
+
+#: ../functions/post_types/video.php:16
+msgid "New Video"
+msgstr ""
+
+#: ../functions/post_types/video.php:17
+msgid "View Video"
+msgstr ""
+
+#: ../functions/post_types/video.php:18
+msgid "Search Videos"
+msgstr ""
+
+#: ../functions/post_types/video.php:19
+msgid "No Videos found"
+msgstr ""
+
+#: ../functions/post_types/video.php:20
+msgid "No Videos found in the trash"
+msgstr ""
+
+#: ../functions/post_types/video.php:21
+msgid "Parent Video:"
+msgstr ""
+
+#: ../functions/post_types/video.php:26
+msgid "Video"
+msgstr ""
+
+#: ../functions/post_types/video.php:31
+msgctxt "post type archive slug"
+msgid "video"
+msgstr ""
+
+#: ../functions/post_types/video.php:32
+msgctxt "post type slug"
+msgid "video"
+msgstr ""
+
+#: ../functions/post_types/video.php:53
+msgid "Video Settings"
+msgstr ""
+
+#: ../functions/post_types/video.php:63
+msgid "Video Location. For example: Ibiza, Spain"
+msgstr ""
+
+#: ../functions/post_types/video.php:64
+msgid "Date Taken."
+msgstr ""
+
+#: ../functions/post_types/video.php:65
+#, php-format
+msgid ""
+"In the following box, you can simply enter the URL of a supported website's "
+"video. It needs to start with <code>http://</code> or <code>https://</code> "
+"(E.g. <code>%1$s</code>). A list of supported websites can be <a href=\"%2$s"
+"\">found here</a>."
+msgstr ""
+
+#: ../functions/scripts.php:111
+#: ../functions/widgets/ci_widget_top_tracks.php:158
+#: ../functions/widgets/ci_widget_top_tracks.php:172
+msgid "Track Title:"
+msgstr ""
+
+#: ../functions/scripts.php:112
+#: ../functions/widgets/ci_widget_top_tracks.php:159
+#: ../functions/widgets/ci_widget_top_tracks.php:173
+msgid "Track Subtitle:"
+msgstr ""
+
+#: ../functions/scripts.php:113
+#: ../functions/widgets/ci_widget_top_tracks.php:160
+#: ../functions/widgets/ci_widget_top_tracks.php:174
+msgid "Track URL:"
+msgstr ""
+
+#: ../functions/scripts.php:114
+msgid "Remove track..."
+msgstr ""
+
+#: ../functions/scripts.php:116
+msgid "No posts found."
+msgstr ""
+
+#: ../functions/shortcodes.php:97
+msgid "Download track"
+msgstr ""
+
+#: ../functions/shortcodes.php:105
+msgid "Buy track"
+msgstr ""
+
+#: ../functions/shortcodes.php:113
+#, php-format
+msgctxt "song name lyrics"
+msgid "%s Lyrics"
+msgstr ""
+
+#: ../functions/shortcodes.php:114
+msgid "Lyrics"
+msgstr ""
+
+#: ../functions/shortcodes.php:151
+msgid "Cannot show track listings from non-public, non-published posts."
+msgstr ""
+
+#: ../functions/sidebars.php:7
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:9
+msgid ""
+"Place here the widgets that you want to display on your blog-related pages"
+msgstr ""
+
+#: ../functions/sidebars.php:17
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:19
+msgid "Place here the widgets that you want to display on your pages"
+msgstr ""
+
+#: ../functions/sidebars.php:27
+msgid "Inner Widget Area"
+msgstr ""
+
+#: ../functions/sidebars.php:29
+msgid ""
+"Place here the widgets that you want to display on the bottom of every "
+"single inner page of your website."
+msgstr ""
+
+#: ../functions/sidebars.php:37
+msgid "Front Page Widgets"
+msgstr ""
+
+#: ../functions/sidebars.php:39
+msgid ""
+"This is the main front page widget area. Assign widgets here to create your "
+"front page."
+msgstr ""
+
+#: ../functions/sidebars.php:47
+msgid "Artist Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:49
+msgid ""
+"Place here the widgets that you want to display in single artists pages."
+msgstr ""
+
+#: ../functions/sidebars.php:57
+msgid "Album Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:59
+msgid ""
+"Place here the widgets that you want to display in single discography pages."
+msgstr ""
+
+#: ../functions/sidebars.php:68
+msgid "Eshop Sidebar"
+msgstr ""
+
+#: ../functions/sidebars.php:70
+msgid "Widgets placed in this sidebar will appear on your e-shop pages."
+msgstr ""
+
+#: ../functions/sidebars.php:79
+msgid "Footer sidebar #1"
+msgstr ""
+
+#: ../functions/sidebars.php:81
+msgid ""
+"Place here the widgets that you want to display on your footer column #1"
+msgstr ""
+
+#: ../functions/sidebars.php:89
+msgid "Footer sidebar #2"
+msgstr ""
+
+#: ../functions/sidebars.php:91
+msgid ""
+"Place here the widgets that you want to display on your footer column #2"
+msgstr ""
+
+#: ../functions/sidebars.php:99
+msgid "Footer sidebar #3"
+msgstr ""
+
+#: ../functions/sidebars.php:101
+msgid ""
+"Place here the widgets that you want to display on your footer column #3"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Source Sans Pro, translate this to 'off'. Do not translate into your own language.
+#: ../functions/styles.php:12
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:8
+msgid "Archive Options"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:80
+msgid "Artists"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:81
+#: ../functions/tabs/archive_options.php:101
+#: ../functions/tabs/archive_options.php:121
+#: ../functions/tabs/archive_options.php:141
+#: ../functions/tabs/archive_options.php:161
+msgid ""
+"These settings affect the behaviour of the taxonomy listing pages (i.e. NOT "
+"listings created with a page template)."
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:91
+#: ../functions/tabs/archive_options.php:111
+#: ../functions/tabs/archive_options.php:131
+#: ../functions/tabs/archive_options.php:151
+#: ../functions/tabs/archive_options.php:171
+msgid "Enable category filters (isotope effect)."
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:92
+#: ../functions/tabs/archive_options.php:112
+#: ../functions/tabs/archive_options.php:132
+#: ../functions/tabs/archive_options.php:152
+#: ../functions/tabs/archive_options.php:172
+msgid "Enable masonry layout."
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:95
+msgid "Number of artists per page:"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:100
+msgid "Discography"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:115
+msgid "Number of discography items per page:"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:120
+msgid "Videos"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:135
+msgid "Number of videos per page:"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:140
+msgid "Events"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:155
+msgid "Number of events per page:"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:160
+msgid "Galleries"
+msgstr ""
+
+#: ../functions/tabs/archive_options.php:175
+msgid "Number of galleries per page:"
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:8
+msgid "Music Player Options"
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:19
+msgid "Streaming Radio"
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:28
+msgid ""
+"You can enable the front page music player by selecting a Discography item. "
+"Its tracklisting will be used as the source of the songs. Any SoundCloud "
+"links you might have will be ignored. Alternatively, you can provide a "
+"stream URL and name. If a stream URL is set, the Discography item will be "
+"ignored."
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:30
+msgid "Select an album:"
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:42
+msgid "Enable autoplay on page load?"
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:46
+msgid ""
+"Both Icecast and Shoutcast streams are supported by the player, however you "
+"need to find the appropriate stream URL that points to your actual stream, "
+"and not a .pls file. If your stream URL contains an IP or it does not seem "
+"to work, add a semicolon at the end, e.g. \"http://192.102.192.1:8006/stream;"
+"\"."
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:49
+msgid "Stream URL:"
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:50
+msgid "Stream Name:"
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:54
+msgid ""
+"You can enable fetching and display of the current playing song from your "
+"server. Please note that this is an experimental feature and specifically "
+"requires a SHOUTcast server version 2.0 or higher, and your Stream URL to be "
+"in the form of IP:port (e.g. http://192.102.192.1:8006/stream; or similar). "
+"If your server does not meet the above requirements it is highly advised to "
+"keep this option turned off."
+msgstr ""
+
+#: ../functions/tabs/audio_options.php:56
+msgid "Show the current playing song."
+msgstr ""
+
+#: ../functions/tabs/blog_options.php:8
+msgid "Blog Options"
+msgstr ""
+
+#: ../functions/tabs/blog_options.php:24
+msgid ""
+"Set the default layout of the Blog Section. This applies to the primary blog "
+"section, i.e. the default installation, as well as to the page that you set "
+"as the blog page from <em>Settings -> Reading -> Front page displays -> A "
+"static page -> Post page</em>."
+msgstr ""
+
+#: ../functions/tabs/blog_options.php:28
+msgid "Default - With sidebar"
+msgstr ""
+
+#: ../functions/tabs/blog_options.php:31
+msgid "Blog layout"
+msgstr ""
+
+#: ../functions/tabs/blog_options.php:38
+#: ../functions/tabs/ecommerce_options.php:99
+msgid "2 Columns"
+msgstr ""
+
+#: ../functions/tabs/blog_options.php:39
+#: ../functions/tabs/ecommerce_options.php:100
+msgid "3 Columns"
+msgstr ""
+
+#: ../functions/tabs/blog_options.php:40
+msgid "4 Columns"
+msgstr ""
+
+#: ../functions/tabs/blog_options.php:42
+msgid "Blog Columns (only when Blog layout is Full width)"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:8
+msgid "Appearance Options"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:40
+msgid ""
+"Set the default layout of your website. This may be overridden by individual "
+"templates and/or posts."
+msgstr ""
+
+#: ../functions/tabs/color_options.php:43
+msgid "Default - Sidebar on the right"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:44
+msgid "Alternative - Sidebar on the left"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:46
+msgid "Site layout"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:53
+msgid "Header Display"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:54
+msgid ""
+"Upload or select an image to be used as the default header background on "
+"your header. This will be displayed in all your inner pages except from the "
+"frontpage template. For best results, use a high resolution image, at least "
+"1920x160 pixels in size."
+msgstr ""
+
+#: ../functions/tabs/color_options.php:55
+msgid "Upload an image:"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:60
+msgid "Surrounding border"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:61
+msgid "You can enable/disable the thick border that surrounds the website."
+msgstr ""
+
+#: ../functions/tabs/color_options.php:64
+msgid "Show border"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:65
+msgid "Don't show border"
+msgstr ""
+
+#: ../functions/tabs/color_options.php:67
+msgid "Surrounding border:"
+msgstr ""
+
+#: ../functions/tabs/custom_css.php:8 ../panel/snippets/custom_css.php:28
+msgid "Custom CSS"
+msgstr ""
+
+#: ../functions/tabs/display_options.php:8
+msgid "Display Options"
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:8
+msgid "e-Commerce Options"
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:92
+msgid "Control what you want displayed on your single product pages."
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:93
+msgid "Show related products"
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:94
+msgid "Show Up-Sells"
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:98
+msgid ""
+"Select the default number of columns your products will appear in (affects "
+"all shop pages)."
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:104
+msgid ""
+"Set how many products per page should be displayed on product listing pages "
+"(e.g. shop page, category pages, etc). Use <strong>-1</strong> for no limit."
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:105
+msgid "Products per page"
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:107
+msgid ""
+"Set additional numbers for viewing more products in product listing pages (e."
+"g. shop page)."
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:109
+msgid "First selection (single number, e.g. 20):"
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:110
+msgid "Second selection (single number, e.g. 50):"
+msgstr ""
+
+#: ../functions/tabs/ecommerce_options.php:112
+msgid "Enable View All Products Option?"
+msgstr ""
+
+#: ../functions/tabs/feedburner_options.php:8
+msgid "FeedBurner Options"
+msgstr ""
+
+#: ../functions/tabs/google_options.php:8
+msgid "Google Options"
+msgstr ""
+
+#: ../functions/tabs/home_options.php:8
+msgid "Homepage Options"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:8
+msgid "Newsletter Options"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:26
+#, php-format
+msgid ""
+"This newsletter form can be used in combination with plugins or online "
+"providers such as <a href=\"%1$s\">Campaign Monitor</a> and <a href=\"%2$s"
+"\">MailChimp</a>. Please refer to their respective documentation if you need "
+"to know what the values of <b>Action</b>, <b>field names</b> and <b>field "
+"IDs</b> should be. Please note that if the <b>Action URL</b> is blank, then "
+"the form will not be displayed."
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:28
+msgid "Action URL"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:29
+msgid "\"Email\" field ID"
+msgstr ""
+
+#: ../functions/tabs/newsletter_options.php:30
+msgid "\"Email\" field name"
+msgstr ""
+
+#: ../functions/tabs/site_options.php:8
+msgid "Site Options"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:8
+msgid "Section/Button titles"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:17
+msgctxt "section title"
+msgid "From the blog"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:18
+msgctxt "section title"
+msgid "Discography"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:19
+msgctxt "section title"
+msgid "Videos"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:20
+msgctxt "section title"
+msgid "Galleries"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:21
+msgctxt "section title"
+msgid "Artists"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:22
+msgctxt "section title"
+msgid "Events"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:24
+#: ../functions/tabs/titles_options.php:25
+#: ../functions/tabs/titles_options.php:26
+msgctxt "button wording"
+msgid "Learn more"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:27
+msgctxt "button wording"
+msgid "View Photos"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:28
+msgctxt "button wording"
+msgid "View Video"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:29
+msgctxt "button wording"
+msgid "Buy Now"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:35
+msgid "Button wording"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:36
+msgid ""
+"Set the button wording, depending on the post type. These buttons appear on "
+"listing pages and on widgets."
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:38
+msgid "Events' button text:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:39
+msgid "Discographies' button text:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:40
+msgid "Artists' button text:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:41
+msgid "Galleries' button text:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:42
+msgid "Videos' button text:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:43
+msgid "Products' button text (requires WooCommerce):"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:48
+msgid "Section titles"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:49
+msgid ""
+"Set the titles for the various sections of your website. These titles appear "
+"on your blog and post type archives (i.e. NOT listings created with a page "
+"template)."
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:51
+msgid "Blog section title:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:52
+msgid "Discography section title:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:53
+msgid "Videos section title:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:54
+msgid "Galleries section title:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:55
+msgid "Artists section title:"
+msgstr ""
+
+#: ../functions/tabs/titles_options.php:56
+msgid "Events section title:"
+msgstr ""
+
+#: ../functions/tabs/twitter_options.php:8
+msgid "Twitter Options"
+msgstr ""
+
+#: ../functions/template_hooks.php:102
+#, php-format
+msgid "<a href=\"%s\">Powered by WordPress</a> - A theme by CSSIgniter.com"
+msgstr ""
+
+#. translators: %2$s is replaced by the website's name.
+#: ../functions/template_hooks.php:107
+#, php-format
+msgid "<a href=\"%1$s\">%2$s</a> - <a href=\"%3$s\">Powered by WordPress</a>"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:12
+msgid "-= CI Upcoming Events =-"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:13
+msgid "Display your upcoming events."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:200
+msgid "Events Number:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:201
+msgid "Show recurring events?"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:203
+msgid ""
+"Recurrent events don't count towards the limit you set above. If enabled, "
+"the widget will display all recurrent events, and a number of dated events "
+"according to the number you set."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:206
+msgid "Show metadata."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:209
+#: ../functions/widgets/ci_widget_items.php:285
+#: ../functions/widgets/ci_widget_latest_posts.php:203
+msgid "Output Columns:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:218
+#: ../functions/widgets/ci_widget_items.php:294
+#: ../functions/widgets/ci_widget_latest_posts.php:212
+#: ../functions/widgets/ci_widget_newsletter.php:125
+#: ../functions/widgets/ci_widget_split_content.php:160
+#: ../functions/widgets/ci_widget_top_tracks.php:183
+#: ../functions/widgets/ci_widget_tracklisting.php:162
+msgid "Reduce bottom margin."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:221
+#: ../functions/widgets/ci_widget_items.php:297
+#: ../functions/widgets/ci_widget_latest_posts.php:215
+#: ../functions/widgets/ci_widget_newsletter.php:128
+#: ../functions/widgets/ci_widget_split_content.php:164
+#: ../functions/widgets/ci_widget_top_tracks.php:186
+#: ../functions/widgets/ci_widget_tracklisting.php:165
+msgid "Custom Colors"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:223
+#: ../functions/widgets/ci_widget_items.php:299
+#: ../functions/widgets/ci_widget_latest_posts.php:217
+#: ../functions/widgets/ci_widget_newsletter.php:130
+#: ../functions/widgets/ci_widget_split_content.php:166
+#: ../functions/widgets/ci_widget_top_tracks.php:188
+#: ../functions/widgets/ci_widget_tracklisting.php:167
+msgid "Foreground Color:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:224
+#: ../functions/widgets/ci_widget_items.php:300
+#: ../functions/widgets/ci_widget_latest_posts.php:218
+#: ../functions/widgets/ci_widget_newsletter.php:131
+#: ../functions/widgets/ci_widget_split_content.php:167
+#: ../functions/widgets/ci_widget_top_tracks.php:189
+#: ../functions/widgets/ci_widget_tracklisting.php:168
+msgid "Background Color:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:225
+#: ../functions/widgets/ci_widget_items.php:301
+#: ../functions/widgets/ci_widget_latest_posts.php:219
+#: ../functions/widgets/ci_widget_newsletter.php:132
+#: ../functions/widgets/ci_widget_split_content.php:168
+#: ../functions/widgets/ci_widget_top_tracks.php:190
+#: ../functions/widgets/ci_widget_tracklisting.php:169
+msgid "Background Image:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:225
+#: ../functions/widgets/ci_widget_items.php:301
+#: ../functions/widgets/ci_widget_latest_posts.php:219
+#: ../functions/widgets/ci_widget_newsletter.php:132
+#: ../functions/widgets/ci_widget_split_content.php:168
+#: ../functions/widgets/ci_widget_top_tracks.php:160
+#: ../functions/widgets/ci_widget_top_tracks.php:174
+#: ../functions/widgets/ci_widget_top_tracks.php:190
+#: ../functions/widgets/ci_widget_tracklisting.php:169
+msgid "Upload"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:227
+#: ../functions/widgets/ci_widget_items.php:303
+#: ../functions/widgets/ci_widget_latest_posts.php:221
+#: ../functions/widgets/ci_widget_newsletter.php:134
+#: ../functions/widgets/ci_widget_split_content.php:170
+#: ../functions/widgets/ci_widget_top_tracks.php:192
+#: ../functions/widgets/ci_widget_tracklisting.php:171
+msgid "Background Repeat:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:229
+#: ../functions/widgets/ci_widget_items.php:305
+#: ../functions/widgets/ci_widget_latest_posts.php:223
+#: ../functions/widgets/ci_widget_newsletter.php:136
+#: ../functions/widgets/ci_widget_split_content.php:172
+#: ../functions/widgets/ci_widget_top_tracks.php:194
+#: ../functions/widgets/ci_widget_tracklisting.php:173
+#: ../panel/snippets/custom_background.php:219
+#: ../panel/snippets/custom_background.php:322
+#: ../panel/snippets/custom_background.php:424
+msgid "Repeat"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:230
+#: ../functions/widgets/ci_widget_items.php:306
+#: ../functions/widgets/ci_widget_latest_posts.php:224
+#: ../functions/widgets/ci_widget_newsletter.php:137
+#: ../functions/widgets/ci_widget_split_content.php:173
+#: ../functions/widgets/ci_widget_top_tracks.php:195
+#: ../functions/widgets/ci_widget_tracklisting.php:174
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:231
+#: ../functions/widgets/ci_widget_items.php:307
+#: ../functions/widgets/ci_widget_latest_posts.php:225
+#: ../functions/widgets/ci_widget_newsletter.php:138
+#: ../functions/widgets/ci_widget_split_content.php:174
+#: ../functions/widgets/ci_widget_top_tracks.php:196
+#: ../functions/widgets/ci_widget_tracklisting.php:175
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:232
+#: ../functions/widgets/ci_widget_items.php:308
+#: ../functions/widgets/ci_widget_latest_posts.php:226
+#: ../functions/widgets/ci_widget_newsletter.php:139
+#: ../functions/widgets/ci_widget_split_content.php:175
+#: ../functions/widgets/ci_widget_top_tracks.php:197
+#: ../functions/widgets/ci_widget_tracklisting.php:176
+#: ../panel/snippets/custom_background.php:218
+#: ../panel/snippets/custom_background.php:321
+#: ../panel/snippets/custom_background.php:423
+msgid "No Repeat"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:236
+#: ../functions/widgets/ci_widget_items.php:312
+#: ../functions/widgets/ci_widget_latest_posts.php:230
+#: ../functions/widgets/ci_widget_newsletter.php:143
+#: ../functions/widgets/ci_widget_split_content.php:179
+#: ../functions/widgets/ci_widget_top_tracks.php:201
+#: ../functions/widgets/ci_widget_tracklisting.php:180
+msgid "Parallax effect (requires a background image)."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_events.php:237
+#: ../functions/widgets/ci_widget_items.php:313
+#: ../functions/widgets/ci_widget_latest_posts.php:231
+#: ../functions/widgets/ci_widget_newsletter.php:144
+#: ../functions/widgets/ci_widget_split_content.php:180
+#: ../functions/widgets/ci_widget_top_tracks.php:202
+#: ../functions/widgets/ci_widget_tracklisting.php:181
+msgid "Parallax speed (1-8):"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_items.php:6
+msgid "Displays a hand-picked selection of posts from a selected post type."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_items.php:8
+msgid "-= CI Items =-"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_items.php:203
+#: ../functions/widgets/ci_widget_split_content.php:131
+#: ../functions/widgets/ci_widget_tracklisting.php:146
+msgid "Title (optional):"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_items.php:213
+#: ../functions/widgets/ci_widget_top_tracks.php:149
+msgid ""
+"Add as many items as you want by pressing the \"Add Field\" button. Remove "
+"any item by selecting \"Remove me\"."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_items.php:224
+#: ../functions/widgets/ci_widget_items.php:257
+msgid "Post type:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_items.php:233
+#: ../functions/widgets/ci_widget_items.php:267
+msgid "Item:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_items.php:244
+#: ../functions/widgets/ci_widget_items.php:277
+#: ../functions/widgets/ci_widget_latest_posts.php:200
+msgid "Show metadata (where available)."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_latest_posts.php:6
+msgid ""
+"Displays a number of the latest (or random) posts from a specific post type."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_latest_posts.php:8
+msgid "-= CI Latest Posts =-"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_latest_posts.php:187
+msgid "Select a post type to display the latest post from"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_latest_posts.php:197
+msgid "Show random posts."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_latest_posts.php:198
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_newsletter.php:7
+msgid "Displays a Newsletter form for your users to register."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_newsletter.php:9
+msgid "-= CI Newsletter =-"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_newsletter.php:53
+msgid "Your e-mail"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_newsletter.php:93
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_newsletter.php:94
+msgid "Stay up to date!"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_newsletter.php:95
+msgid "Subscribe now"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_newsletter.php:119
+msgid ""
+"The widget will display a newsletter form which will redirect on your custom "
+"URL supplied in the Theme Options. It is required that you set up your "
+"newsletter options in the Theme Settings for it to display."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_newsletter.php:122
+msgid "Subscribe button text:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_split_content.php:6
+msgid ""
+"Displays a selected post from a selected post type on the left, and the "
+"featured image on the right."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_split_content.php:8
+msgid "-= CI Split Content =-"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_split_content.php:136
+msgid "Show posts from this post type:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_split_content.php:144
+msgid "Select a post to show:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_split_content.php:156
+msgid ""
+"For better control of the output, write a custom excerpt on the post you are "
+"about to show."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_split_content.php:158
+msgid "Image on the left."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_top_tracks.php:13
+msgid "Display a list of tracks."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_tracklisting.php:13
+msgid "Display an album and optionally its track listing."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_tracklisting.php:150
+msgid "Select Discography Item:"
+msgstr ""
+
+#: ../functions/widgets/ci_widget_tracklisting.php:157
+msgid "Show track listing."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_tracklisting.php:158
+msgid "Hide player buttons."
+msgstr ""
+
+#: ../functions/widgets/ci_widget_tracklisting.php:159
+msgid ""
+"Please note that the \"Show track listing\" option above, only works for "
+"discography items that have their tracks registered through the "
+"<strong>Discography Settings - Track details</strong> pane."
+msgstr ""
+
+#: ../header.php:46
+msgid "Shopping Bag"
+msgstr ""
+
+#: ../header.php:48
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc_section_titles.php:28
+msgid "Search results"
+msgstr ""
+
+#: ../inc_section_titles.php:30
+msgid "Page not found! (404)"
+msgstr ""
+
+#: ../index.php:28 ../search.php:46 ../single.php:28
+msgid "No Comments"
+msgstr ""
+
+#: ../index.php:28 ../search.php:46 ../single.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: ../index.php:28 ../search.php:46 ../single.php:28
+msgid "% Comments"
+msgstr ""
+
+#: ../panel/ci_panel.php:95 ../panel/ci_panel.php:130
+msgid "CSSIgniter Settings"
+msgstr ""
+
+#: ../panel/ci_panel.php:97 ../panel/ci_panel.php:132
+msgid "Theme Settings"
+msgstr ""
+
+#. translators: %1$s is the theme name. %2$s is the theme's version number prepended by a 'v', e.g. v1.2
+#: ../panel/ci_panel.php:166
+#, php-format
+msgctxt "theme name settings version"
+msgid "%1$s Settings v%2$s"
+msgstr ""
+
+#: ../panel/ci_panel.php:171
+#, php-format
+msgctxt "theme name settings"
+msgid "%s Settings"
+msgstr ""
+
+#: ../panel/ci_panel.php:185
+#, php-format
+msgid ""
+"A theme update is available. The latest version is <b>%1$s</b> and you are "
+"running <b>%2$s</b>"
+msgstr ""
+
+#: ../panel/ci_panel.php:206
+msgid "Settings reset!"
+msgstr ""
+
+#: ../panel/ci_panel.php:218
+msgid "Documentation"
+msgstr ""
+
+#: ../panel/ci_panel.php:224
+msgid "Support forum"
+msgstr ""
+
+#: ../panel/ci_panel.php:230 ../panel/ci_panel.php:278
+msgid "Save Changes"
+msgstr ""
+
+#: ../panel/ci_panel.php:286
+msgid "Reset Settings"
+msgstr ""
+
+#: ../panel/ci_panel.php:286
+msgid "Are you sure? All settings will be lost!"
+msgstr ""
+
+#: ../panel/ci_panel.php:416
+msgid "Upload image"
+msgstr ""
+
+#: ../panel/ci_panel.php:420 ../panel/ci_panel.php:421
+#: ../panel/ci_panel.php:422 ../panel/ci_panel.php:423
+#, php-format
+msgctxt "preview in color background"
+msgid "Preview in %s background"
+msgstr ""
+
+#: ../panel/ci_panel.php:420
+msgctxt "color"
+msgid "White"
+msgstr ""
+
+#: ../panel/ci_panel.php:421
+msgctxt "color"
+msgid "Grey"
+msgstr ""
+
+#: ../panel/ci_panel.php:422
+msgctxt "color"
+msgid "Black"
+msgstr ""
+
+#: ../panel/ci_panel.php:423
+msgctxt "color"
+msgid "Transparent"
+msgstr ""
+
+#: ../panel/generic.php:241
+msgid "Less than a minute ago"
+msgstr ""
+
+#: ../panel/generic.php:247
+#, php-format
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/generic.php:253
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/generic.php:259
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/generic.php:265
+#, php-format
+msgid "%s month ago"
+msgid_plural "%s months ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/generic.php:523
+msgid "Uncategorized"
+msgstr ""
+
+#: ../panel/generic.php:559
+msgid "Older posts"
+msgstr ""
+
+#: ../panel/generic.php:560
+msgid "Newer posts"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:399
+#: ../panel/libraries/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:400
+#: ../panel/libraries/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:828
+#: ../panel/libraries/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:935
+#: ../panel/libraries/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:1116
+#: ../panel/libraries/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3370
+#: ../panel/libraries/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3370
+#: ../panel/libraries/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../panel/libraries/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../panel/localization.php:188
+msgid "Previous"
+msgstr ""
+
+#: ../panel/localization.php:189
+msgid "Next"
+msgstr ""
+
+#: ../panel/localization.php:190
+msgid "Close"
+msgstr ""
+
+#: ../panel/localization.php:191
+msgid "Today"
+msgstr ""
+
+#: ../panel/media_manager.php:58
+msgid "Use this file"
+msgstr ""
+
+#: ../panel/media_manager.php:59
+msgid "Update gallery"
+msgstr ""
+
+#: ../panel/media_manager.php:60
+msgid "Loading..."
+msgstr ""
+
+#: ../panel/media_manager.php:61
+msgid "Gallery preview not available."
+msgstr ""
+
+#: ../panel/media_manager.php:62 ../panel/media_manager.php:178
+msgid "Remove from gallery"
+msgstr ""
+
+#: ../panel/media_manager.php:167
+msgid "Add Images"
+msgstr ""
+
+#: ../panel/media_manager.php:169
+msgid "Randomize order"
+msgstr ""
+
+#: ../panel/post_color_scheme.php:13
+msgid "Post Color Scheme"
+msgstr ""
+
+#: ../panel/post_color_scheme.php:68
+msgid ""
+"Select one of the available color schemes to override the one selected from "
+"the theme's options panel."
+msgstr ""
+
+#: ../panel/post_meta.php:257
+msgid "Click to toggle"
+msgstr ""
+
+#: ../panel/snippets/archive.php:14
+msgid "Archive"
+msgstr ""
+
+#: ../panel/snippets/archive.php:16
+msgid "The number of the latest posts displayed in the archive page."
+msgstr ""
+
+#: ../panel/snippets/archive.php:17
+msgid "Number of latest posts"
+msgstr ""
+
+#: ../panel/snippets/archive.php:20
+msgid "Use the following options to display various types of archives."
+msgstr ""
+
+#: ../panel/snippets/archive.php:21
+msgid "Display weekly archive"
+msgstr ""
+
+#: ../panel/snippets/archive.php:22
+msgid "Display monthly archive"
+msgstr ""
+
+#: ../panel/snippets/archive.php:23
+msgid "Display yearly archive"
+msgstr ""
+
+#: ../panel/snippets/buysellads.php:24
+msgid "BuySellAds"
+msgstr ""
+
+#: ../panel/snippets/buysellads.php:25
+#, php-format
+msgid ""
+"Paste here your BuySellAds.com <strong>Main Code</strong>, as given by the "
+"<a href=\"%s\">BSA website</a>, and it will be automatically included on "
+"every page. Then use our BSA Widget for your sidebar code."
+msgstr ""
+
+#: ../panel/snippets/buysellads.php:26
+msgid "BuySellAds.com Main Code"
+msgstr ""
+
+#: ../panel/snippets/color_scheme.php:41
+msgid "Color Scheme"
+msgstr ""
+
+#: ../panel/snippets/color_scheme.php:42
+msgid ""
+"Select your color scheme. This affects the overall look and feel of your "
+"website."
+msgstr ""
+
+#: ../panel/snippets/color_scheme.php:55
+msgid "Color scheme"
+msgstr ""
+
+#: ../panel/snippets/comments.php:27
+msgid "Comments"
+msgstr ""
+
+#: ../panel/snippets/comments.php:28
+msgid ""
+"You can disable comments specifically for <b>Pages</b>. This is usually "
+"preferred as pages traditionally hold static, presentational content. When "
+"checked, <b>all</b> pages will <b>not</b> have comments, overriding each "
+"page's setting. <br />You can also enable or disable the \"Comments are "
+"closed\" message displayed on the bottom of each post/page/etc when the "
+"comments are closed. This applies everywhere."
+msgstr ""
+
+#: ../panel/snippets/comments.php:30
+msgid "Disable comments for pages."
+msgstr ""
+
+#: ../panel/snippets/comments.php:31
+msgid "Show \"Comments are closed\" message."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:191
+msgid "Custom Header Background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:192
+msgid ""
+"Control whether you want to override the theme's header background, by "
+"enabling the custom header background option and tweaking the rest as you "
+"please."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:194
+msgid "Disable custom header background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:199
+msgid ""
+"You can set the header's background color of the page here. This option "
+"overrides the header's background color set by the Color Scheme Option (if "
+"any), so leave it empty if you want the default. You may select a color "
+"using the color picker (pops up when you click on the input box), or enter "
+"its hex number in the input box (including a leading #)."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:201
+msgid "Header's Background Color"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:206
+msgid ""
+"When this option is checked, the header's background image is disabled, "
+"whether it's set by the default stylesheets or by you, from the option below."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:208
+msgid "Disable header's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:213
+msgid ""
+"You can upload/select an image to use as custom header's background for your "
+"site. Make sure to select the appropriate size, once you select your image. "
+"You can also choose whether you want the image to repeat."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:214
+msgid "Upload your header's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:220
+#: ../panel/snippets/custom_background.php:323
+#: ../panel/snippets/custom_background.php:425
+msgid "Repeat X"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:221
+#: ../panel/snippets/custom_background.php:324
+#: ../panel/snippets/custom_background.php:426
+msgid "Repeat Y"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:223
+msgid "Repeat header's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:229
+msgid "You can select the placement of your image in the header's background."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:233
+#: ../panel/snippets/custom_background.php:336
+#: ../panel/snippets/custom_background.php:438
+#: ../panel/snippets/featured_image_single.php:124
+msgid "Left"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:234
+#: ../panel/snippets/custom_background.php:245
+#: ../panel/snippets/custom_background.php:337
+#: ../panel/snippets/custom_background.php:348
+#: ../panel/snippets/custom_background.php:439
+#: ../panel/snippets/custom_background.php:450
+#: ../panel/snippets/featured_image_single.php:125
+msgid "Center"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:235
+#: ../panel/snippets/custom_background.php:338
+#: ../panel/snippets/custom_background.php:440
+#: ../panel/snippets/featured_image_single.php:126
+msgid "Right"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:237
+msgid "Header's Background Horizontal Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:244
+#: ../panel/snippets/custom_background.php:347
+#: ../panel/snippets/custom_background.php:449
+msgid "Top"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:246
+#: ../panel/snippets/custom_background.php:349
+#: ../panel/snippets/custom_background.php:451
+msgid "Bottom"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:248
+msgid "Header's Background Vertical Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:254
+#: ../panel/snippets/custom_background.php:357
+#, php-format
+msgid ""
+"You can select the size of your image in the background. For an explanation "
+"of the values, please read <a href=\"%s\">this article</a>."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:257
+#: ../panel/snippets/custom_background.php:360
+#: ../panel/snippets/custom_background.php:462
+msgid "Default"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:258
+#: ../panel/snippets/custom_background.php:361
+#: ../panel/snippets/custom_background.php:463
+msgid "Cover"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:259
+#: ../panel/snippets/custom_background.php:362
+#: ../panel/snippets/custom_background.php:464
+msgid "Contain"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:260
+#: ../panel/snippets/custom_background.php:363
+#: ../panel/snippets/custom_background.php:465
+msgid "Custom size (e.g. <em>200px 150px</em>)"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:282
+msgid ""
+"When the fixed background option is checked, the header's background image "
+"will not scroll along with the rest of the page."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:284
+msgid "Fixed header's background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:294
+msgid "Custom Background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:295
+msgid ""
+"Control whether you want to override the theme's background, by enabling the "
+"custom background option and tweaking the rest as you please."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:297
+msgid "Disable custom background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:302
+msgid ""
+"You can set the background color of the page here. This option overrides the "
+"background color set by the Color Scheme Option (if any), so leave it empty "
+"if you want the default. You may select a color using the color picker (pops "
+"up when you click on the input box), or enter its hex number in the input "
+"box (including a leading #)."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:304
+msgid "Background Color"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:309
+msgid ""
+"When this option is checked, the body background image is disabled, whether "
+"it's set by the default stylesheets or by you, from the option below."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:311
+msgid "Disable background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:316
+msgid ""
+"You can upload/select an image to use as custom background for your site. "
+"Make sure to select the appropriate size, once you select your image. You "
+"can also choose whether you want the image to repeat."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:317
+msgid "Upload your background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:326
+msgid "Repeat background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:332
+msgid "You can select the placement of your image in the background."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:340
+msgid "Background Horizontal Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:351
+msgid "Background Vertical Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:385
+msgid ""
+"When the fixed background option is checked, the background image will not "
+"scroll along with the rest of the page."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:387
+msgid "Fixed background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:396
+msgid "Custom Footer Background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:397
+msgid ""
+"Control whether you want to override the theme's footer background, by "
+"enabling the custom footer background option and tweaking the rest as you "
+"please."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:399
+msgid "Disable custom footer background"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:404
+msgid ""
+"You can set the footer's background color of the page here. This option "
+"overrides the footer's background color set by the Color Scheme Option (if "
+"any), so leave it empty if you want the default. You may select a color "
+"using the color picker (pops up when you click on the input box), or enter "
+"its hex number in the input box (including a leading #)."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:406
+msgid "Footer's Background Color"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:411
+msgid ""
+"When this option is checked, the footer's background image is disabled, "
+"whether it's set by the default stylesheets or by you, from the option below."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:413
+msgid "Disable footer's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:418
+msgid ""
+"You can upload/select an image to use as custom footer's background for your "
+"site. Make sure to select the appropriate size, once you select your image. "
+"You can also choose whether you want the image to repeat."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:419
+msgid "Upload your footer's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:428
+msgid "Repeat footer's background image"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:434
+msgid "You can select the placement of your image in the footer's background."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:442
+msgid "Footer's Background Horizontal Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:453
+msgid "Footer's Background Vertical Placement"
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:459
+#, php-format
+msgid ""
+"You can select the size of your image in the footer's background. For an "
+"explanation of the values, please read <a href=\"%s\">this article</a>."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:487
+msgid ""
+"When the fixed background option is checked, the footer's background image "
+"will not scroll along with the rest of the page."
+msgstr ""
+
+#: ../panel/snippets/custom_background.php:489
+msgid "Fixed footer's background"
+msgstr ""
+
+#: ../panel/snippets/custom_css.php:29
+msgid "Paste here any custom CSS code you might have."
+msgstr ""
+
+#: ../panel/snippets/custom_css.php:30
+msgid "CSS Code"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:8
+msgid "Read More &raquo;"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:85
+msgid "Content Preview"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:88
+msgid ""
+"You can select whether you want the Content or the Excerpt to be displayed "
+"on listing pages."
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:89
+msgid "Use the following on listing pages"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:91
+msgid "Use the Content"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:92
+msgid "Use the Excerpt"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:97
+msgid ""
+"You can set what the Read More text will be. This applies to both the "
+"Content and the Excerpt."
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:98
+msgid "Read More text"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:102
+msgid ""
+"You can define how long the Excerpt will be (in words). You can also set the "
+"text that appears when the excerpt is auto-generated and is automatically "
+"cut-off. These options only apply to the Excerpt."
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:104
+msgid "Excerpt length (in words)"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:105
+msgid "Excerpt auto cut-off text"
+msgstr ""
+
+#: ../panel/snippets/excerpt.php:106
+msgid "Link cut-off text to permalink"
+msgstr ""
+
+#: ../panel/snippets/favicon.php:20
+msgid "Favicon"
+msgstr ""
+
+#: ../panel/snippets/favicon.php:21 ../panel/snippets/touch_favicon.php:31
+msgid ""
+"As of WordPress v4.3, the Customizer (<em>Appearance &rarr; Customize</em>) "
+"provides support for a <strong>Site Icon</strong>. You are strongly adviced "
+"to use the Site Icon feature instead of the options below, as they will be "
+"removed in theme updates released after WordPress v4.4 is out."
+msgstr ""
+
+#: ../panel/snippets/favicon.php:22
+#, php-format
+msgid ""
+"Here you can upload your favicon. The favicon is a small, 16x16 icon that "
+"appears besides your URL in the address bar, in open tabs and/or in "
+"bookmarks. We recommend you create your favicon from an existing square "
+"image, using appropriate online services such as <a href=\"%1$s\">Dynamic "
+"Drive</a> and <a href=\"%2$s\">favicon.cc</a>"
+msgstr ""
+
+#: ../panel/snippets/favicon.php:23
+msgid "Upload your favicon"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:78
+msgid "Featured Image - Full Width"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:79
+msgid ""
+"You can select whether the full width page template (if applicable) will use "
+"it's own image size, or the same configuration as normal posts and pages. If "
+"you select its own size, you can only configure the height of the image, as "
+"the width will match the width of the page by default. Please note that if "
+"you choose the full width and/or change its height, you will need to "
+"regenerate your thumbnails."
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:82
+msgid "Full width image"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:83
+msgid "The same as posts/pages"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:84
+msgctxt "featured image is disabled"
+msgid "Disabled"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:86
+msgid "Featured image for Full Width template is"
+msgstr ""
+
+#: ../panel/snippets/featured_image_fullwidth.php:87
+msgid "Full Width featured image height"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:103
+msgid "Featured Image"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:106
+#, php-format
+msgid ""
+"Control whether you want the featured image of each post to be displayed "
+"when viewing that post's page. The featured image can be shown/hidden on "
+"each individual post type, with common dimensions. You can define its width "
+"and height <em>(defaults to the content width, currently: %d pixels)</em>, "
+"and whether you want it aligned on the left, right or middle of the page."
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:107
+msgid ""
+"Note that if you change the width and/or the height of the featured images, "
+"you will need to regenerate all your thumbnails using an appropriate plugin, "
+"such as the <a href=\"https://wordpress.org/extend/plugins/regenerate-"
+"thumbnails/\" target=\"_blank\">Regenerate Thumbnails</a> plugin, otherwise "
+"your images may appear distorted."
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:115
+#, php-format
+msgid "Show featured images on <em>%s</em>"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:119
+msgid "Featured image Width"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:120
+msgid "Featured image Height"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:123
+msgid "None"
+msgstr ""
+
+#: ../panel/snippets/featured_image_single.php:128
+msgid "Featured image alignment"
+msgstr ""
+
+#: ../panel/snippets/feedburner.php:43
+msgid "FeedBurner"
+msgstr ""
+
+#: ../panel/snippets/feedburner.php:44
+msgid ""
+"By adding your FeedBurner URL here, your main feed will be served by "
+"FeedBurner instead of your WordPress site."
+msgstr ""
+
+#: ../panel/snippets/feedburner.php:45
+msgid "FeedBurner Feed URL"
+msgstr ""
+
+#: ../panel/snippets/footer_text.php:28
+msgid "Footer Text"
+msgstr ""
+
+#: ../panel/snippets/footer_text.php:30
+#, php-format
+msgid ""
+"You can change the footer text by entering your custom text here. You may "
+"use <strong>:year:</strong> to display the current year. The following HTML "
+"tags are allowed: %s"
+msgstr ""
+
+#: ../panel/snippets/footer_text.php:33
+msgid "Footer text"
+msgstr ""
+
+#: ../panel/snippets/footer_text.php:37
+msgid "Secondary footer text"
+msgstr ""
+
+#: ../panel/snippets/google_analytics.php:22
+msgid "Google Analytics"
+msgstr ""
+
+#: ../panel/snippets/google_analytics.php:23
+msgid ""
+"Paste here your Google Analytics Code, as given by the Analytics website "
+"(including the <b>&lt;script&gt;</b> and <b>&lt;/script&gt;</b> tags), and "
+"it will be automatically included on every page."
+msgstr ""
+
+#: ../panel/snippets/google_analytics.php:24
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../panel/snippets/google_maps_api.php:22
+msgid ""
+"The Google Maps API must be loaded only once in each page. Since many "
+"plugins may try to load it as well, you might want to disable it from the "
+"theme to avoid potential errors."
+msgstr ""
+
+#: ../panel/snippets/google_maps_api.php:23
+msgid "Load Google Maps API."
+msgstr ""
+
+#: ../panel/snippets/google_maps_api.php:25
+#, php-format
+msgid ""
+"Enter here your Google Maps API Key. While your maps will be displayed at "
+"first without an API key, if you get a lot of visits to your site (more than "
+"25.000 per day currently), the maps might stop working. In that case, you "
+"need to issue a key from <a href=\"%s\">Google Accounts</a>"
+msgstr ""
+
+#: ../panel/snippets/google_maps_api.php:26
+msgid "Google Maps API Key"
+msgstr ""
+
+#: ../panel/snippets/logo.php:16
+msgid "Logo"
+msgstr ""
+
+#: ../panel/snippets/logo.php:17
+msgid ""
+"Upload your logo here. It will replace the textual logo (site name) on the "
+"header."
+msgstr ""
+
+#: ../panel/snippets/logo.php:18
+msgid "Upload your logo"
+msgstr ""
+
+#: ../panel/snippets/logo.php:21
+msgid ""
+"By default, the site tagline appears near the logo (either image or "
+"textual). You can choose to show or hide it. This doesn't affect any other "
+"usages of the tagline."
+msgstr ""
+
+#: ../panel/snippets/logo.php:24
+msgid "Show tagline"
+msgstr ""
+
+#: ../panel/snippets/logo.php:25
+msgid "Hide tagline"
+msgstr ""
+
+#: ../panel/snippets/logo.php:27
+msgid "Tagline near the logo:"
+msgstr ""
+
+#: ../panel/snippets/logo.php:34
+msgid "Hi-Res Logo"
+msgstr ""
+
+#: ../panel/snippets/logo.php:35
+msgid ""
+"You can upload a higher resolution logo image, that will automatically be "
+"served to devices with retina (high resolution) displays. The image needs to "
+"be exactly twice the width and height of the image above, and have the same "
+"filename with a <strong>@2x</strong> appended at the end. For example, if "
+"the image above is named <strong>logo.png</strong> then you need to upload a "
+"file named <strong>logo@2x.png</strong><br />Please note that the two images "
+"need to be in the same folder. Because of that you should upload both images "
+"at the same time in order for the retina version to automatically be "
+"recognized."
+msgstr ""
+
+#: ../panel/snippets/logo.php:36
+msgid "Upload your hi-res logo"
+msgstr ""
+
+#: ../panel/snippets/newsletter_hidden_fields.php:32
+msgid "Hidden Fields"
+msgstr ""
+
+#: ../panel/snippets/newsletter_hidden_fields.php:33
+msgid ""
+"You can pass additional data to your newsletter system, by means of hidden "
+"fields (e.g. Mailchimp requires them)."
+msgstr ""
+
+#: ../panel/snippets/newsletter_hidden_fields.php:35
+msgid "Add hidden field"
+msgstr ""
+
+#: ../panel/snippets/newsletter_hidden_fields.php:43
+#: ../panel/snippets/newsletter_hidden_fields.php:50
+msgid "Hidden field name"
+msgstr ""
+
+#: ../panel/snippets/newsletter_hidden_fields.php:43
+#: ../panel/snippets/newsletter_hidden_fields.php:51
+msgid "Hidden field value"
+msgstr ""
+
+#: ../panel/snippets/pagination.php:14
+msgid "Pagination"
+msgstr ""
+
+#: ../panel/snippets/pagination.php:15
+msgid ""
+"Select how you want pagination links to be displayed. You can display the "
+"traditional \"Previous\" and \"Next\" links, or the recommended, numbered "
+"links."
+msgstr ""
+
+#: ../panel/snippets/pagination.php:16
+msgid "Select the pagination method to use:"
+msgstr ""
+
+#: ../panel/snippets/pagination.php:17
+msgid "Numbered pagination."
+msgstr ""
+
+#: ../panel/snippets/pagination.php:18
+msgid "\"Previous - Next\" links."
+msgstr ""
+
+#: ../panel/snippets/pagination.php:23
+msgid ""
+"The theme has detected that you have installed the <strong>WP-PageNavi</"
+"strong> plugin. Although the theme doesn't provide appropriate styles for "
+"it, you can still use it without editing any files, by selecting the option "
+"below. However, you might need to configure and/or style it on your own."
+msgstr ""
+
+#: ../panel/snippets/pagination.php:26
+msgid "WP-PageNavi plugin."
+msgstr ""
+
+#: ../panel/snippets/sample_content.php:10
+msgid "Sample Content"
+msgstr ""
+
+#: ../panel/snippets/sample_content.php:11
+#, php-format
+msgid ""
+"You can download sample content to help you get things started with this "
+"theme. You need to unzip the downloaded file, and then upload the resulting "
+"XML file via <a href=\"%s\">Tools -> Import -> WordPress</a>. Please note "
+"that the images imported with the sample content are licensed, and therefore "
+"you are not allowed to use or redistribute them."
+msgstr ""
+
+#: ../panel/snippets/sample_content.php:12
+msgid "Download sample content"
+msgstr ""
+
+#: ../panel/snippets/seo.php:121
+msgid "SEO"
+msgstr ""
+
+#: ../panel/snippets/seo.php:124
+msgid ""
+"As of WordPress v4.1 it is recommended to let WordPress manage the &lt;"
+"title> tag itself in a standard way. Good SEO plugins should be able to "
+"manipulate this title."
+msgstr ""
+
+#: ../panel/snippets/seo.php:126
+msgid ""
+"The theme provides some title-manipulation options until this feature is "
+"fully implemented. Un-check the following checkbox to fine-tune the title "
+"tag manually. These options will be removed completely when WordPress "
+"reaches v4.3."
+msgstr ""
+
+#: ../panel/snippets/seo.php:129
+msgid "Let WordPress manage the title tag."
+msgstr ""
+
+#: ../panel/snippets/seo.php:135
+msgid ""
+"Select how you want the &lt;title> tag handled. \"<b>Automatic title</b>\" "
+"checks a list of known SEO plugins and behaves accordingly. This is the "
+"recommended setting if the SEO plugin you use is detected properly."
+msgstr ""
+
+#: ../panel/snippets/seo.php:136
+msgid ""
+"\"<b>Use the theme's default title</b>\" gives a good result if you don't "
+"have a SEO plugin installed."
+msgstr ""
+
+#: ../panel/snippets/seo.php:137
+msgid ""
+"\"<b>Use pure WordPress function</b>\" should only be used if you have a SEO "
+"plugin installed that isn't detected, and the plugin's documentation "
+"suggests to change the title tag function to <b>wp_title('');</b> . In that "
+"case, you don't need to edit any files, just select this option."
+msgstr ""
+
+#: ../panel/snippets/seo.php:144
+msgid "A known SEO plugin could not be detected."
+msgstr ""
+
+#: ../panel/snippets/seo.php:147
+#, php-format
+msgid ""
+"The <b>%s</b> plugin was detected. Please use the <b>Automatic title</b> "
+"setting."
+msgstr ""
+
+#: ../panel/snippets/seo.php:152
+msgid "Use the following on the &lt;title> tag"
+msgstr ""
+
+#: ../panel/snippets/seo.php:154
+msgid "Automatic title"
+msgstr ""
+
+#: ../panel/snippets/seo.php:155
+msgid "Use the theme's default title"
+msgstr ""
+
+#: ../panel/snippets/seo.php:156
+msgid "Use pure WordPress function ( wp_title('') )"
+msgstr ""
+
+#: ../panel/snippets/seo.php:160
+msgid ""
+"The title separator is inserted between various elements within the title "
+"tag of each page. Leading and trailing spaces are automatically inserted "
+"where appropriate. This only applies when the option \"Use the theme's "
+"default title\" above is selected."
+msgstr ""
+
+#: ../panel/snippets/seo.php:162
+msgid "Title separator"
+msgstr ""
+
+#: ../panel/snippets/site_other.php:13
+msgid "Other options"
+msgstr ""
+
+#: ../panel/snippets/site_other.php:22
+msgid ""
+"The Meta Generator tag is a piece of information added in the head of the "
+"generated HTML code that states the theme name and the developer of the "
+"theme. While it is not visible to your site's visitors, it does help us "
+"gather usage statistics."
+msgstr ""
+
+#: ../panel/snippets/site_other.php:25
+msgid "Echo a Meta Generator tag (invisible in the website)."
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:15
+#: ../panel/snippets/slider_flexslider.php:15
+msgid "Main Slider"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:16
+#, php-format
+msgid ""
+"The following options control the main slider. You may enable auto-sliding "
+"by checking the appropriate option, or by setting the auto-slide timeout to "
+"a value grater than 0. A demo of the transition effects can be seen <a href="
+"\"%s\">here</a>."
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:18
+#: ../panel/snippets/slider_cycle_internal.php:18
+#: ../panel/snippets/slider_flexslider.php:18
+#: ../panel/snippets/slider_flexslider_internal.php:18
+msgid "Enable auto-slide"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:21
+#: ../panel/snippets/slider_cycle_internal.php:21
+msgid "Auto-slide timeout (milliseconds)"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:26
+#: ../panel/snippets/slider_cycle_internal.php:26
+msgctxt "slider effect"
+msgid "None"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:27
+#: ../panel/snippets/slider_cycle_internal.php:27
+msgctxt "slider effect"
+msgid "Cover"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:28
+#: ../panel/snippets/slider_cycle_internal.php:28
+msgctxt "slider effect"
+msgid "Uncover"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:29
+#: ../panel/snippets/slider_cycle_internal.php:29
+#: ../panel/snippets/slider_flexslider.php:23
+#: ../panel/snippets/slider_flexslider_internal.php:23
+msgctxt "slider effect"
+msgid "Fade"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:30
+#: ../panel/snippets/slider_cycle_internal.php:30
+msgctxt "slider effect"
+msgid "Fade Zoom"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:31
+#: ../panel/snippets/slider_cycle_internal.php:31
+msgctxt "slider effect"
+msgid "Shuffle"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:32
+#: ../panel/snippets/slider_cycle_internal.php:32
+msgctxt "slider effect"
+msgid "Toss"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:33
+#: ../panel/snippets/slider_cycle_internal.php:33
+msgctxt "slider effect"
+msgid "Wipe"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:34
+#: ../panel/snippets/slider_cycle_internal.php:34
+msgctxt "slider effect"
+msgid "Zoom"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:35
+#: ../panel/snippets/slider_cycle_internal.php:35
+msgctxt "slider effect"
+msgid "Scroll Vertically"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:36
+#: ../panel/snippets/slider_cycle_internal.php:36
+msgctxt "slider effect"
+msgid "Scroll Horizontally"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:37
+#: ../panel/snippets/slider_cycle_internal.php:37
+msgctxt "slider effect"
+msgid "Scroll Left"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:38
+#: ../panel/snippets/slider_cycle_internal.php:38
+msgctxt "slider effect"
+msgid "Scroll Right"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:39
+#: ../panel/snippets/slider_cycle_internal.php:39
+msgctxt "slider effect"
+msgid "Scroll Up"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:40
+#: ../panel/snippets/slider_cycle_internal.php:40
+msgctxt "slider effect"
+msgid "Scroll Down"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:41
+#: ../panel/snippets/slider_cycle_internal.php:41
+msgctxt "slider effect"
+msgid "Blind X"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:42
+#: ../panel/snippets/slider_cycle_internal.php:42
+msgctxt "slider effect"
+msgid "Blind Y"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:43
+#: ../panel/snippets/slider_cycle_internal.php:43
+msgctxt "slider effect"
+msgid "Blind Z"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:44
+#: ../panel/snippets/slider_cycle_internal.php:44
+msgctxt "slider effect"
+msgid "Curtain X"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:45
+#: ../panel/snippets/slider_cycle_internal.php:45
+msgctxt "slider effect"
+msgid "Curtain Y"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:46
+#: ../panel/snippets/slider_cycle_internal.php:46
+msgctxt "slider effect"
+msgid "Grow X"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:47
+#: ../panel/snippets/slider_cycle_internal.php:47
+msgctxt "slider effect"
+msgid "Grow Y"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:48
+#: ../panel/snippets/slider_cycle_internal.php:48
+msgctxt "slider effect"
+msgid "Slide X"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:49
+#: ../panel/snippets/slider_cycle_internal.php:49
+msgctxt "slider effect"
+msgid "Slide Y"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:50
+#: ../panel/snippets/slider_cycle_internal.php:50
+msgctxt "slider effect"
+msgid "Turn Up"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:51
+#: ../panel/snippets/slider_cycle_internal.php:51
+msgctxt "slider effect"
+msgid "Turn Down"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:52
+#: ../panel/snippets/slider_cycle_internal.php:52
+msgctxt "slider effect"
+msgid "Turn Left"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:53
+#: ../panel/snippets/slider_cycle_internal.php:53
+msgctxt "slider effect"
+msgid "Turn Right"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:55
+#: ../panel/snippets/slider_cycle_internal.php:55
+#: ../panel/snippets/slider_flexslider.php:26
+#: ../panel/snippets/slider_flexslider_internal.php:26
+msgid "Slider Effect"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:59
+#: ../panel/snippets/slider_cycle_internal.php:59
+#: ../panel/snippets/slider_flexslider.php:39
+#: ../panel/snippets/slider_flexslider_internal.php:39
+msgid "Slideshow speed in milliseconds (smaller number means faster)"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle.php:62
+#: ../panel/snippets/slider_cycle_internal.php:62
+msgid "Enable synchronized sliding"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle_internal.php:15
+#: ../panel/snippets/slider_flexslider_internal.php:15
+msgid "Internal Slider"
+msgstr ""
+
+#: ../panel/snippets/slider_cycle_internal.php:16
+#, php-format
+msgid ""
+"The following options control the internal slider. You may enable auto-"
+"sliding by checking the appropriate option, or by setting the auto-slide "
+"timeout to a value grater than 0. A demo of the transition effects can be "
+"seen <a href=\"%s\">here</a>."
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:16
+msgid ""
+"The following options control the main slider. You may enable or disable "
+"auto-sliding by checking the appropriate option and further control its "
+"behavior."
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:24
+#: ../panel/snippets/slider_flexslider_internal.php:24
+msgctxt "slider effect"
+msgid "Slide"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:32
+#: ../panel/snippets/slider_flexslider_internal.php:32
+msgctxt "slider direction"
+msgid "Horizontal"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:33
+#: ../panel/snippets/slider_flexslider_internal.php:33
+msgctxt "slider direction"
+msgid "Vertical"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:35
+#: ../panel/snippets/slider_flexslider_internal.php:35
+msgid "Slide Direction (only for <b>Slide</b> effect)"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider.php:42
+#: ../panel/snippets/slider_flexslider_internal.php:42
+msgid "Animation duration in milliseconds (smaller number means faster)"
+msgstr ""
+
+#: ../panel/snippets/slider_flexslider_internal.php:16
+msgid ""
+"The following options control the internal slider. You may enable or disable "
+"auto-sliding by checking the appropriate option and further control its "
+"behavior."
+msgstr ""
+
+#: ../panel/snippets/social.php:29
+msgid "Subscribe to our RSS feed."
+msgstr ""
+
+#: ../panel/snippets/social.php:33
+msgid "Follow us on twitter."
+msgstr ""
+
+#: ../panel/snippets/social.php:37
+msgid "Check out our videos on YouTube."
+msgstr ""
+
+#: ../panel/snippets/social.php:47
+msgid "Like us on Facebook."
+msgstr ""
+
+#: ../panel/snippets/social.php:51
+msgid "Join our circle in Google+"
+msgstr ""
+
+#: ../panel/snippets/social.php:55
+msgid "Let's meet in LinkedIn"
+msgstr ""
+
+#: ../panel/snippets/social.php:59
+msgid "See our pinboards on Pinterest"
+msgstr ""
+
+#: ../panel/snippets/social.php:63
+msgid "See our photos on Flickr"
+msgstr ""
+
+#: ../panel/snippets/social.php:67
+msgid "Visit our Wordpress.com blog"
+msgstr ""
+
+#: ../panel/snippets/social.php:71 ../panel/snippets/social.php:75
+msgid "See our Dribbble shots."
+msgstr ""
+
+#: ../panel/snippets/social.php:79
+msgid "See our photos on Picasa."
+msgstr ""
+
+#: ../panel/snippets/social.php:83
+msgid "See our pinboards."
+msgstr ""
+
+#: ../panel/snippets/social.php:87
+msgid "Let's Stumble!"
+msgstr ""
+
+#: ../panel/snippets/social.php:91
+msgid "See what we digg."
+msgstr ""
+
+#: ../panel/snippets/social.php:97
+msgid ""
+"Enter the URLs of your accounts on the following social media websites. The "
+"relevant icons will be displayed wherever you place the included -=CI "
+"SOCIAL=- widget. Unchecking and/or leaving an empty URL will hide the "
+"associated icon."
+msgstr ""
+
+#: ../panel/snippets/social.php:102
+msgid "Enable RSS icon"
+msgstr ""
+
+#: ../panel/snippets/social.php:106
+msgid "RSS Text"
+msgstr ""
+
+#: ../panel/snippets/social.php:120
+#, php-format
+msgctxt "social network name"
+msgid "Enable %s icon"
+msgstr ""
+
+#: ../panel/snippets/social.php:123
+#, php-format
+msgctxt "social network name"
+msgid "%s URL"
+msgstr ""
+
+#: ../panel/snippets/social.php:127
+#, php-format
+msgctxt "social network name"
+msgid "%s Text"
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:30
+msgid "Touch Icons"
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:32
+msgid ""
+"Touch Icons are the icons used in mobiles devices such as iOS and Android "
+"phones and tablets. You can upload images optimized for each category of "
+"devices. The images should be in PNG format. You can set each image as "
+"\"precomposed\" so that the mobile devices will not apply any visual effects "
+"to the icons."
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:35
+msgid ""
+"Upload your touch icon (57x57px, non-Retina iPhone, iPod Touch, Android 2.1+)"
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:36
+#: ../panel/snippets/touch_favicon.php:41
+#: ../panel/snippets/touch_favicon.php:46
+msgid "Precomposed"
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:40
+msgid "Upload your touch icon (72x72px, 1st generation iPad)"
+msgstr ""
+
+#: ../panel/snippets/touch_favicon.php:45
+msgid "Upload your touch icon (114x114px, iPhone 4+, Retina display)"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:16
+msgid "Twitter"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:18
+#, php-format
+msgid ""
+"You need to follow a series of steps in order to allow Twitter capabilities "
+"to your website. First, <a href=\"%s\">log into the Twitter Developers "
+"website</a>."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:19
+msgid ""
+"<strong>Step 1:</strong> Make sure you are on the <strong>My Applications</"
+"strong> page. If you don't already have an application set up, create a new "
+"one by pressing the <em>Create New App</em> button. Fill in the required "
+"details (you don't need a Callback URL) and press the <em>Create your "
+"Twitter application</em> button."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:20
+msgid ""
+"<strong>Step 2:</strong> On the following page (the application's page), in "
+"<em>API Keys</em> tab, under the <em>Your access token</em> label, press the "
+"<strong>Create my access token</strong> button (if no access token "
+"information is displayed). It might take a couple of minutes for it to "
+"generate, so refresh the page once in a while, until you see the generated "
+"codes."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:22
+msgid ""
+"<strong>Step 3:</strong> Under the <em>Application Settings</em> label, you "
+"will find your <strong>API key</strong> and <strong>API secret</strong>. "
+"Paste them below."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:23
+msgid "API Key"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:24
+msgid "API Secret"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:26
+msgid ""
+"<strong>Step 4:</strong> Under the <em>Your access token</em> label, you "
+"will find your <strong>Access token</strong> and <strong>Access token "
+"secret</strong>. Paste them below."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:27
+msgid "Access Token"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:28
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:30
+#, php-format
+msgid ""
+"Twitter.com places <a href=\"%s\">limits on the number of requests</a> that "
+"you are allowed to make. As multiple -=CI Tweets=- widgets count as discreet "
+"requests, and each pageview triggers those requests, we have placed a "
+"caching mechanism so that you don't reach those limits. For normal use (one "
+"widget per page), an update period of one minute should be fine. If you have "
+"more than one widget instances, you might need to increase that number."
+msgstr ""
+
+#: ../panel/snippets/twitter_api.php:31
+msgid "Tweets update period in seconds (min: 60)"
+msgstr ""
+
+#: ../panel/widgets.php:52
+msgid "CSSIgniter News"
+msgstr ""
+
+#: ../panel/widgets.php:64
+msgid "CSSIgniter Blog"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:7
+msgid "About me widget"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:9
+msgid "-= CI About Me =-"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:65
+msgid "Image:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:69
+msgid "Image alignment:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:71
+msgctxt "alignment"
+msgid "None"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:72
+msgctxt "alignment"
+msgid "Left"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:73
+msgctxt "alignment"
+msgid "Right"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_about.php:78
+msgid "About text:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:6
+msgid "Display 125x125 Banners"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:8
+msgid "-= CI 125x125 Ads =-"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:102
+msgid "Display ads in random order?"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:103
+msgid "Open ads in new window?"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:110
+#, php-format
+msgid "Banner #%d URL"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:111
+#, php-format
+msgid "Banner #%d Link"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_ads125.php:112
+#, php-format
+msgid "Banner #%d Title"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_bsa.php:6
+msgid "BuySellAds.com Integration"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_bsa.php:8
+msgid "-= CI BuySellAds.com =-"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_bsa.php:33
+msgid "Zone Code:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_bsa.php:34
+#, php-format
+msgid ""
+"Paste your <strong>Zone Code</strong> here, as described in this <a href=\"%s"
+"\">BuySellAds tutorial</a>."
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:6
+msgid "FlickR Widget"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:8
+msgid "-= CI Flickr Widget =-"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:101
+#, php-format
+msgid ""
+"You need to provide your Flickr ID, which usually is <strong>different</"
+"strong> from your username. It usually consists of mostly numeric digits. "
+"You can find you Flickr ID easily by using <a href=\"%s\" target=\"_blank"
+"\">this tool</a>."
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:107
+msgid "Account Type:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:109
+msgid "User"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:110
+msgid "Group"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:114
+msgid "Number of photos:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:123
+msgid "Sorting:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:125
+msgid "Latest"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_flickr.php:126
+msgid "Random"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:14
+msgid "Social Icons widget placeholder"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:16
+msgid "-= CI Social =-"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:66
+#, php-format
+msgid ""
+"This widget is a placeholder for Social Media icons. You may configure those "
+"icons from the <a href=\"%s\">CSSIgniter's panel</a>, under the "
+"<strong>Social Options</strong> tab."
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:68
+msgid "Color scheme to use:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:70
+msgctxt "color scheme"
+msgid "Default"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:71
+msgctxt "color scheme"
+msgid "Light"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_social.php:72
+msgctxt "color scheme"
+msgid "Dark"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_tweets.php:11
+msgid "Display your latest tweets"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_tweets.php:13
+msgid "-= CI Tweets =-"
+msgstr ""
+
+#. translators: %1$s is the error number, %2$s is the error message.
+#: ../panel/widgets/ci_widget_tweets.php:78
+#, php-format
+msgid "Error %1$s: %2$s"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_tweets.php:144
+msgid ""
+"It looks like you haven't provided Twitter access details, in order for this "
+"widget to work. Unfortunately, this is needed. Please visit the theme's "
+"settings page and provide the required access details."
+msgstr ""
+
+#: ../panel/widgets/ci_widget_tweets.php:150
+msgid "Username:"
+msgstr ""
+
+#: ../panel/widgets/ci_widget_tweets.php:151
+msgid "Number of tweets:"
+msgstr ""
+
+#: ../product-searchform.php:3 ../searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: ../product-searchform.php:3
+msgid "Search for Products"
+msgstr ""
+
+#: ../search.php:7
+msgid "No results found. Please broaden your terms and search again."
+msgstr ""
+
+#: ../search.php:8
+msgid ""
+"Just one result found. We either nailed it, or you might want to broaden "
+"your terms and search again."
+msgstr ""
+
+#: ../search.php:9
+#, php-format
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../searchform.php:4
+msgid "SEARCH"
+msgstr ""
+
+#: ../searchform.php:5
+msgid "GO"
+msgstr ""
+
+#: ../single-meta-cpt_artist.php:7 ../single-meta-cpt_video.php:25
+#: ../widget-meta-cpt_video.php:17
+msgid "Category"
+msgstr ""
+
+#: ../single-meta-cpt_discography.php:13 ../widget-meta-cpt_discography.php:12
+msgid "Release Date"
+msgstr ""
+
+#: ../single-meta-cpt_discography.php:20
+msgid "Record Label"
+msgstr ""
+
+#: ../single-meta-cpt_discography.php:27 ../widget-meta-cpt_discography.php:19
+msgid "Catalog Number"
+msgstr ""
+
+#: ../single-meta-cpt_event.php:27 ../widget-meta-cpt_event.php:27
+msgid "Days"
+msgstr ""
+
+#: ../single-meta-cpt_event.php:31 ../widget-meta-cpt_event.php:31
+msgid "Hours"
+msgstr ""
+
+#: ../single-meta-cpt_event.php:35 ../widget-meta-cpt_event.php:35
+msgid "Minutes"
+msgstr ""
+
+#: ../single-meta-cpt_event.php:45 ../single-meta-cpt_video.php:11
+#: ../widget-meta-cpt_video.php:10
+msgid "Date"
+msgstr ""
+
+#: ../single-meta-cpt_event.php:49
+msgid "Time"
+msgstr ""
+
+#: ../single-meta-cpt_event.php:54
+msgid "When"
+msgstr ""
+
+#: ../single-meta-cpt_event.php:60 ../single-meta-cpt_video.php:18
+msgid "Location"
+msgstr ""
+
+#: ../single-meta-cpt_event.php:66
+msgid "Venue"
+msgstr ""
+
+#: ../taxonomy-artist-category.php:26 ../taxonomy-event-category.php:26
+#: ../taxonomy-gallery-category.php:26 ../taxonomy-section.php:26
+#: ../taxonomy-video-category.php:26 ../template-listing-artists.php:33
+#: ../template-listing-discography.php:33 ../template-listing-events.php:114
+#: ../template-listing-events.php:208 ../template-listing-galleries.php:33
+#: ../template-listing-videos.php:33
+msgid "All Items"
+msgstr ""
+
+#: ../woocommerce/archive-product.php:32
+msgid "View:"
+msgstr ""
+
+#: ../woocommerce/archive-product.php:36
+msgid "All"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:22
+msgid "Shipping and Handling"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:76
+#: ../woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There don&lsquo;t seem to be available shipping methods. Please double check "
+"your address, or contact us if you need any help."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:97
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:30
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:33
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:50
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:121
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:130
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:130
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:130
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/content-product.php:105
+msgid "View More"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like"
+msgstr ""
